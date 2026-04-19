@@ -42,6 +42,6 @@ Make the yard comfortable before making it decorative. Light, seating, and warmt
 
 ## Recommended products
 
-- **Addlon 48FT Outdoor String Lights** — Affiliate link: [Shop on Amazon.ca](https://www.amazon.ca/s?k=Addlon+48FT+outdoor+string+lights&tag=simplekit-20)
-- **Outdoor Throw Blanket, Waterproof Backed** — Affiliate link: [Shop on Amazon.ca](https://www.amazon.ca/s?k=outdoor+throw+blanket+waterproof+backed&tag=simplekit-20)
-- **Portable Propane Patio Heater** — Affiliate link: [Shop on Amazon.ca](https://www.amazon.ca/s?k=portable+propane+patio+heater+outdoor&tag=simplekit-20)
+- **Addlon 48FT Outdoor String Lights** — Affiliate link: [Shop on Amazon.ca](https://www.amazon.ca/dp/B07QMKZWQF?tag=simplekit-20)
+- **Outdoor Throw Blanket, Waterproof Backed** — Affiliate link: [See current price](https://www.amazon.ca/dp/B08K3R7J8M?tag=simplekit-20)
+- **Portable Propane Patio Heater** — Affiliate link: [View on Amazon Canada](https://www.amazon.ca/dp/B08JH6K6XZ?tag=simplekit-20)

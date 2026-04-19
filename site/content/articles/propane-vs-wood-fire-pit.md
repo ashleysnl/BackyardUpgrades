@@ -62,6 +62,6 @@ For most homeowners building a polished, easy-to-use backyard, propane is the be
 
 ## Recommended products
 
-- **Outland Living Mega Fire Pit** — Affiliate link: [Shop on Amazon.ca](https://www.amazon.ca/s?k=Outland+Living+Mega+propane+fire+pit&tag=simplekit-20)
-- **Solo Stove Bonfire 2.0** — Affiliate link: [Shop on Amazon.ca](https://www.amazon.ca/s?k=Solo+Stove+Bonfire+2.0+smokeless+fire+pit&tag=simplekit-20)
-- **Fire Pit Cover 30 Inch Round** — Affiliate link: [Shop on Amazon.ca](https://www.amazon.ca/s?k=30+inch+round+fire+pit+cover+outdoor&tag=simplekit-20)
+- **Outland Living Mega Fire Pit** — Affiliate link: [View on Amazon Canada](https://www.amazon.ca/dp/B07BN3X8G5?tag=simplekit-20)
+- **Solo Stove Bonfire 2.0** — Affiliate link: [View on Amazon Canada](https://www.amazon.ca/dp/B0B8J7Z5F5?tag=simplekit-20)
+- **Fire Pit Cover 30 Inch Round** — Affiliate link: [View on Amazon Canada](https://www.amazon.ca/dp/B07ZKQ8F6V?tag=simplekit-20)

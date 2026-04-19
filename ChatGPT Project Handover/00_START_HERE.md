@@ -8,10 +8,11 @@ Backyard Upgrades is a static content website built to showcase outdoor living a
 
 - A styled homepage with featured sections, article search, and category filters
 - A reusable article page that loads Markdown article content
-- 10 publish-ready article drafts upgraded from the original Package 1 set
-- Affiliate-tagged Amazon links already embedded in the article content
-- Supporting trust pages for about, affiliate disclosure, privacy, and contact
-- `robots.txt` and `sitemap.xml` already added to the site root
+- 10 publish-ready affiliate articles upgraded from the original handoff packages
+- Affiliate-tagged Amazon product links embedded in article content and product cards
+- A lightweight product-image system with local assets and manifest-driven fallbacks
+- Supporting trust pages for about, affiliate disclosure, and privacy
+- `robots.txt` and `sitemap.xml` already aligned to the current GitHub Pages deployment
 
 ## Where the working site lives
 
@@ -32,10 +33,10 @@ Backyard Upgrades is a static content website built to showcase outdoor living a
 
 ## Immediate priorities
 
-- Prepare a GitHub-ready repo wrapper if the project will be published there next
-- Replace the placeholder contact wording with a real email or contact method
-- Review `robots.txt` and `sitemap.xml` domain values before deployment
 - Add favicon and brand assets
+- Tighten internal links between related articles inside article body copy
+- Replace the remaining hose-timer search link with an approved exact product URL if one becomes available
+- Re-check crawl files and canonicals only if the host changes away from GitHub Pages
 - Optionally improve internal links, schema, and richer SEO polish
 
 ## Local preview command

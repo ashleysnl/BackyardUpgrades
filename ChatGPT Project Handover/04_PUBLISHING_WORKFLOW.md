@@ -18,32 +18,30 @@ python3 -m http.server 8000
 - Review copy for factual accuracy and consistency
 - Add site icons and brand assets
 - Confirm all internal links and article slugs work
-- Replace the placeholder contact wording with a real email or contact path
-- Review Amazon search-link URLs and upgrade them to exact product pages where possible
-- Update `robots.txt` and `sitemap.xml` if the final host is not `https://www.backyardupgrades.com/`
+- Replace the remaining `Garden Hose Timer` search link if an approved exact direct product URL becomes available
+- Update `robots.txt`, `sitemap.xml`, and canonical URLs only if the final host changes away from the current GitHub Pages project URL
 - Decide whether to keep the Google Fonts dependency or self-host fonts later
 
 ## GitHub preparation checklist
 
-- Create a Git repository at the workspace root or around the `site/` folder
-- Add a top-level `README.md`
-- Add a `.gitignore`
-- Decide whether GitHub Pages should publish from the repo root or a dedicated branch/folder
-- If using a project site path on GitHub Pages, verify relative URLs still behave as expected
+- Repository is already initialized and pushed to GitHub
+- GitHub Pages project-path behavior is already working
+- Keep relative URLs intact when editing content or templates
+- If a custom domain is added later, update crawl files, canonicals, and any hardcoded host references in one pass
 
 ## Suggested next implementation phases
 
 ### Phase 1
 
-Prepare the repo for GitHub, add a root README, and decide the final deployment target.
+Add favicon assets, tighten article-to-article internal links, and confirm the remaining unfinished product link decision.
 
 ### Phase 2
 
-Improve launch polish with favicon assets, real contact details, internal linking, and optional schema.
+Improve launch polish with favicon assets, internal linking, and optional schema.
 
 ### Phase 3
 
-Deploy to GitHub Pages or another static host and confirm path behavior.
+If a custom domain is added, update host-sensitive files and confirm path behavior again.
 
 ### Phase 4
 

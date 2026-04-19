@@ -51,6 +51,7 @@ If you are new, build one bed, plant a short list of easy crops, automate wateri
 
 ## Recommended products
 
-- **Keter Maple Raised Garden Bed** — Affiliate link: [Shop on Amazon.ca](https://www.amazon.ca/s?k=Keter+Maple+Raised+Garden+Bed&tag=simplekit-20)
-- **Seed Starter Trays with Humidity Dome** — Affiliate link: [Shop on Amazon.ca](https://www.amazon.ca/s?k=seed+starter+trays+with+humidity+dome&tag=simplekit-20)
+<!-- TODO: Replace the Garden Hose Timer search link with an approved exact direct product URL when one is available. -->
+- **Keter Maple Raised Garden Bed** — Affiliate link: [View on Amazon Canada](https://www.amazon.ca/dp/B00B2ILF8O?tag=simplekit-20)
+- **Seed Starter Trays with Humidity Dome** — Affiliate link: [View on Amazon Canada](https://www.amazon.ca/dp/B07YF1R8YH?tag=simplekit-20)
 - **Garden Hose Timer** — Affiliate link: [Shop on Amazon.ca](https://www.amazon.ca/s?k=garden+hose+timer+outdoor&tag=simplekit-20)

@@ -6,7 +6,7 @@ Build a premium-looking affiliate-ready content site for backyard improvement to
 
 ## Current status
 
-The current implementation is a plain static website. It does not depend on a framework, build step, package manager, or backend. The site works locally now and is much closer to launch-ready after Package 2.
+The current implementation is a plain static website. It does not depend on a framework, build step, package manager, or backend. The site works locally and on GitHub Pages, and it is in a much more launch-ready state than the original Package 2 handoff.
 
 ## What has been completed
 
@@ -16,19 +16,24 @@ The current implementation is a plain static website. It does not depend on a fr
 - Added a central `articles.json` manifest for article metadata
 - Upgraded article metadata with deck, description, meta title, and meta description fields
 - Replaced placeholder affiliate sections with publish-ready affiliate-tagged product links in article Markdown
-- Added about, affiliate disclosure, privacy, and contact pages
-- Added `robots.txt` and `sitemap.xml`
+- Added a local product-image system with manifest-driven images and fallbacks
+- Upgraded most affiliate links from Amazon search-result URLs to exact direct product URLs
+- Removed the public contact page and contact surface
+- Added about, affiliate disclosure, and privacy pages
+- Added and corrected `robots.txt` and `sitemap.xml` for the current GitHub Pages project path
+- Added canonical handling for static pages and dynamic article pages
+- Pushed the project to GitHub
 - Styled the site with a more premium editorial look instead of a generic starter theme
 - Verified local serving and basic file loading
 
 ## What is not finished
 
-- No custom domain or deployment config yet
+- No custom domain yet
 - No analytics or tracking
-- No image system yet
-- No Git repository setup in this workspace yet
-- Contact page still needs a real email or final contact destination
-- Crawl files still assume `https://www.backyardupgrades.com/` and may need to be updated for GitHub Pages or another host
+- No favicon or brand icon assets yet
+- Internal links inside article body copy could still be improved
+- One affiliate recommendation, `Garden Hose Timer`, still uses a search link because no approved exact direct URL has been provided
+- Crawl files and canonicals will need another pass only if the final host changes away from GitHub Pages
 
 ## Core project positioning
 

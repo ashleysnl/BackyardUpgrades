@@ -2,16 +2,16 @@
 
 ## High priority
 
-- Prepare repository structure for GitHub
-- Add a real contact email or contact destination
-- Review crawl-file URLs for the actual deployment host
+- Decide whether to keep the site on GitHub Pages or move to a custom domain
+- Add favicon and brand assets
+- Resolve the remaining exact product-link gap for `Garden Hose Timer` if an approved URL becomes available
 
 ## Medium priority
 
 - Improve article metadata and SEO details
-- Review Amazon search links and replace with exact product URLs where practical
 - Add category landing pages
-- Add images or branded visual assets
+- Add branded visual assets or custom social imagery
+- Improve internal linking between related articles in the body copy
 
 ## Lower priority
 
@@ -21,7 +21,7 @@
 
 ## Risks to watch
 
-- Shipping with the wrong domain in `robots.txt` or `sitemap.xml`
-- Leaving the placeholder contact copy in `contact.html`
+- Changing hosts without updating `robots.txt`, `sitemap.xml`, and canonical URLs
 - Content/article metadata falling out of sync
+- Swapping a linked product without updating the article wording or product manifest copy
 - Adding too much complexity too early and losing the simple static deployment model

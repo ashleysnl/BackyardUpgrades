@@ -63,7 +63,7 @@ name: Solo Stove Bonfire 2.0
 image: ./assets/images/products/fire-pits/solo-stove-bonfire.svg
 note: A strong shortlist option for buyers who want a wood fire experience with less smoke frustration in breezy conditions.
 cta: Check price on Amazon.ca
-url: https://www.amazon.ca/s?k=Solo+Stove+Bonfire+2.0+smokeless+fire+pit&tag=simplekit-20
+url: https://www.amazon.ca/dp/B0B8J7Z5F5?tag=simplekit-20
 :::
 
 :::product
@@ -71,7 +71,7 @@ name: Outland Living Mega Fire Pit
 image: ./assets/images/products/fire-pits/outland-living-mega-fire-pit.svg
 note: The easiest recommendation for exposed patios where quick ignition, low mess, and predictable flames matter most.
 cta: Check price on Amazon.ca
-url: https://www.amazon.ca/s?k=Outland+Living+Mega+propane+fire+pit&tag=simplekit-20
+url: https://www.amazon.ca/dp/B07BN3X8G5?tag=simplekit-20
 :::
 
 :::product
@@ -79,5 +79,5 @@ name: Amazon Basics Steel Lattice Fire Pit
 image: ./assets/images/products/fire-pits/amazon-basics-steel-lattice-fire-pit.svg
 note: A budget-conscious entry point that works best when you can place it in a more sheltered part of the yard.
 cta: Check price on Amazon.ca
-url: https://www.amazon.ca/s?k=Amazon+Basics+steel+lattice+fire+pit&tag=simplekit-20
+url: https://www.amazon.ca/dp/B07N1VZV3P?tag=simplekit-20
 :::

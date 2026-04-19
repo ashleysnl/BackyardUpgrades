@@ -60,7 +60,7 @@ name: Keter Maple Raised Garden Bed
 image: ./assets/images/products/gardening/keter-maple-raised-garden-bed.svg
 note: A polished low-maintenance option for gardeners who want a cleaner look and less material upkeep over time.
 cta: Check price on Amazon.ca
-url: https://www.amazon.ca/s?k=Keter+Maple+Raised+Garden+Bed&tag=simplekit-20
+url: https://www.amazon.ca/dp/B00B2ILF8O?tag=simplekit-20
 :::
 
 :::product
@@ -68,7 +68,7 @@ name: Galvanized Steel Raised Garden Bed
 image: ./assets/images/products/gardening/galvanized-steel-raised-garden-bed.svg
 note: Usually the best value choice when the priority is planting volume, durability, and straightforward vegetable production.
 cta: Check price on Amazon.ca
-url: https://www.amazon.ca/s?k=galvanized+steel+raised+garden+bed+outdoor&tag=simplekit-20
+url: https://www.amazon.ca/dp/B08R5VY3ZK?tag=simplekit-20
 :::
 
 :::product
@@ -76,5 +76,5 @@ name: Garden Bed Cover Hoops and Mesh
 image: ./assets/images/products/gardening/garden-bed-cover-hoops-mesh.svg
 note: A simple season-extension add-on that helps with frost protection, pest control, and more productive shoulder-season growing.
 cta: Check price on Amazon.ca
-url: https://www.amazon.ca/s?k=raised+garden+bed+hoops+cover+mesh&tag=simplekit-20
+url: https://www.amazon.ca/dp/B08Z3J8L7P?tag=simplekit-20
 :::

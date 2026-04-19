@@ -27,9 +27,9 @@ Trying to stretch a small budget across the whole property usually creates a wea
 
 **Addlon 48FT Outdoor String Lights** are a good anchor buy because they change the mood of a space immediately. If you have a pergola, fence corner, deck railing, or shepherd hooks, string lights do more visual work per dollar than almost anything else.
 
-## Best off-grid option
+## Best premium patio look under budget
 
-**Brightech Ambience Pro Solar String Lights** make sense when you do not want to run extension cords or outdoor power. They are especially useful for small patios, rental properties, and areas where a clean install matters more than maximum brightness.
+**Brightech Ambience Pro** is the upgrade pick when you want a more polished cafe-light look without jumping into a full custom lighting setup. It fits small patios, pergola corners, and dining zones where the visual style matters as much as basic illumination.
 
 ## Best decorative filler under budget
 
@@ -67,6 +67,6 @@ If your yard is mostly for relaxing, buy string lights. If it is mostly about fu
 
 ## Recommended products
 
-- **Addlon 48FT Outdoor String Lights** — Affiliate link: [Shop on Amazon.ca](https://www.amazon.ca/s?k=Addlon+48FT+outdoor+string+lights&tag=simplekit-20)
-- **Brightech Ambience Pro Solar String Lights** — Affiliate link: [Shop on Amazon.ca](https://www.amazon.ca/s?k=Brightech+Ambience+Pro+solar+string+lights&tag=simplekit-20)
-- **Brightown Globe String Lights** — Affiliate link: [Shop on Amazon.ca](https://www.amazon.ca/s?k=Brightown+globe+string+lights+outdoor&tag=simplekit-20)
+- **Addlon 48FT Outdoor String Lights** — Affiliate link: [Shop on Amazon.ca](https://www.amazon.ca/dp/B07QMKZWQF?tag=simplekit-20)
+- **Brightech Ambience Pro** — Affiliate link: [View on Amazon Canada](https://www.amazon.ca/dp/B07J2QW4N2?tag=simplekit-20)
+- **Brightown Globe String Lights** — Affiliate link: [View on Amazon Canada](https://www.amazon.ca/dp/B07H9VZL8R?tag=simplekit-20)

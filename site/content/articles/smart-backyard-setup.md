@@ -45,5 +45,5 @@ Start with automation that you will notice every day: lights on schedule, easier
 ## Recommended products
 
 - **Amazon Smart Plug** — Affiliate link: [Shop on Amazon.ca](https://www.amazon.ca/dp/B089DTMHW4?tag=simplekit-20)
-- **Amazon Basics Outdoor Smart Plug** — Affiliate link: [Shop on Amazon.ca](https://www.amazon.ca/s?k=Amazon+Basics+Outdoor+Smart+Plug+Alexa&tag=simplekit-20)
-- **TP-Link Tapo C500 Outdoor Camera** — Affiliate link: [Shop on Amazon.ca](https://www.amazon.ca/TP-Link-Tapo-Security-Detection-C500/dp/B0BW2CYQZJ?tag=simplekit-20)
+- **Amazon Basics Outdoor Smart Plug** — Affiliate link: [Shop on Amazon.ca](https://www.amazon.ca/dp/B094YHJJVG?tag=simplekit-20)
+- **TP-Link Tapo C500 Outdoor Camera** — Affiliate link: [Shop on Amazon.ca](https://www.amazon.ca/dp/B0BW2CYQZJ?tag=simplekit-20)

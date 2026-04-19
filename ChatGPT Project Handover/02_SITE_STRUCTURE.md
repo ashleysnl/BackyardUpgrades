@@ -19,13 +19,19 @@
   Homepage logic for loading `content/articles.json`, rendering cards, search, and category filtering.
 
 - `assets/article.js`
-  Article-page logic for loading one Markdown file, stripping YAML frontmatter, rendering Markdown, showing related articles, and turning recommended products into affiliate callout cards.
+  Article-page logic for loading one Markdown file, stripping YAML frontmatter, rendering Markdown, showing related articles, turning recommended products into affiliate callout cards, and resolving product-image fallbacks.
 
 - `content/articles.json`
   Manifest file containing article metadata such as slug, title, category, featured status, read time, deck text, description, meta title, and meta description.
 
 - `content/articles/*.md`
   Article content files in Markdown format with YAML frontmatter and embedded affiliate-tagged product links.
+
+- `content/product-images.json`
+  Product manifest used to map article product names to local images, affiliate URLs, supporting copy, and fallback keys.
+
+- `content/image-sources.json`
+  Source log for the reuse-safe product-type photography stored locally in the site.
 
 - `about.html`
   Static about page using the shared design system.
@@ -36,14 +42,11 @@
 - `privacy.html`
   Static privacy page.
 
-- `contact.html`
-  Static contact page with placeholder launch guidance that still needs a real inbox.
-
 - `robots.txt`
-  Crawl rules file currently pointing at the intended production domain.
+  Crawl rules file currently aligned to the GitHub Pages project URL.
 
 - `sitemap.xml`
-  Static sitemap with homepage, legal pages, and article URLs.
+  Static sitemap with homepage, legal pages, and article URLs for the current GitHub Pages deployment.
 
 ## How content is loaded
 
@@ -56,6 +59,7 @@ The article page:
 3. Fetches the corresponding Markdown file from `content/articles/<slug>.md`
 4. Strips YAML frontmatter from the Markdown file
 5. Converts the Markdown into HTML using the lightweight renderer in `assets/article.js`
+6. Resolves product-card imagery and fallback assets from `content/product-images.json`
 
 ## Important implementation note
 
@@ -65,5 +69,5 @@ The site should be previewed through a local HTTP server, not by opening the HTM
 
 - `favicon` assets
 - author or editorial page
-- image assets for cards and social sharing
+- custom social-sharing assets
 - category landing pages

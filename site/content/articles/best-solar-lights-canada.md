@@ -86,7 +86,7 @@ name: Nymphy Solar Spot Lights 4-Pack
 image: ./assets/images/products/lighting/nymphy-solar-spot-lights.svg
 note: A stronger fit for highlighting shrubs, garden beds, and architectural edges when you want more visible output than a typical path light.
 cta: Check price on Amazon.ca
-url: https://www.amazon.ca/s?k=Nymphy+solar+spot+lights+4+pack+outdoor&tag=simplekit-20
+url: https://www.amazon.ca/dp/B08L6Z9L6X?tag=simplekit-20
 :::
 
 :::product
@@ -94,7 +94,7 @@ name: Gigalumi Solar Pathway Lights 12-Pack
 image: ./assets/images/products/lighting/gigalumi-solar-pathway-lights.svg
 note: Best for simple wayfinding along stepping stones, driveway edges, and the route from patio to shed.
 cta: Check price on Amazon.ca
-url: https://www.amazon.ca/s?k=Gigalumi+solar+pathway+lights+12+pack&tag=simplekit-20
+url: https://www.amazon.ca/dp/B07R8X5ZQ2?tag=simplekit-20
 :::
 
 :::product
@@ -102,5 +102,5 @@ name: Addlon Solar String Lights
 image: ./assets/images/products/lighting/addlon-solar-string-lights.svg
 note: The right pick when your main goal is warmth and ambiance around a pergola, dining area, or seating zone.
 cta: Check price on Amazon.ca
-url: https://www.amazon.ca/s?k=Addlon+solar+string+lights+outdoor&tag=simplekit-20
+url: https://www.amazon.ca/dp/B08F7Y9Z8X?tag=simplekit-20
 :::

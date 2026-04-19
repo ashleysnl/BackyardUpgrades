@@ -48,17 +48,19 @@
 
 - The articles have been upgraded to a more publish-ready Package 2 version
 - Affiliate-tagged Amazon links are already embedded in the recommended product sections
+- Most article affiliate links now point to exact Amazon Canada product pages rather than search results
 - The site currently depends on article metadata in `articles.json` staying aligned with Markdown filenames
 - Article Markdown files now include YAML frontmatter in addition to the shared manifest
+- Product cards can also be enriched through `content/product-images.json` without rewriting the article body copy
 
 ## Content tasks still worth doing
 
 - Add internal linking between related articles inside the body copy
-- Review affiliate links and replace search-based Amazon links with exact product URLs where possible
 - Add custom social-sharing imagery if desired
 - Add category landing pages if the content library expands
 - Add richer article modules like comparison tables only if they fit the static approach
+- Add or refine exact product-level supporting copy only if the linked products change again
 
 ## Known content note
 
-Some affiliate URLs are Amazon search links rather than exact product pages. Those are acceptable for staging and handoff, but they should be reviewed during final QA if you want tighter product matching.
+The affiliate-link layer is mostly direct-link based now. The main unresolved recommendation is `Garden Hose Timer`, which still uses an Amazon search link because no approved exact direct URL has been provided yet.

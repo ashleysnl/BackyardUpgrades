@@ -90,6 +90,7 @@ function renderMarkdown(markdown, articleSlug, productImageIndex) {
   let orderedItems = [];
   let inRecommendedProducts = false;
   let productBlock = null;
+  let inHtmlComment = false;
 
   const flushParagraph = () => {
     if (!paragraph.length) {
@@ -120,8 +121,24 @@ function renderMarkdown(markdown, articleSlug, productImageIndex) {
   };
 
   for (const line of lines) {
+    const trimmedLine = line.trim();
+
+    if (inHtmlComment) {
+      if (trimmedLine.includes("-->")) {
+        inHtmlComment = false;
+      }
+      continue;
+    }
+
+    if (trimmedLine.startsWith("<!--")) {
+      if (!trimmedLine.includes("-->")) {
+        inHtmlComment = true;
+      }
+      continue;
+    }
+
     if (productBlock) {
-      if (line.trim() === ":::") {
+      if (trimmedLine === ":::") {
         flushParagraph();
         flushList();
         flushOrderedList();
@@ -141,7 +158,7 @@ function renderMarkdown(markdown, articleSlug, productImageIndex) {
       continue;
     }
 
-    if (!line.trim()) {
+    if (!trimmedLine) {
       flushParagraph();
       flushList();
       flushOrderedList();
@@ -173,7 +190,7 @@ function renderMarkdown(markdown, articleSlug, productImageIndex) {
       continue;
     }
 
-    if (line.trim() === ":::product") {
+    if (trimmedLine === ":::product") {
       flushParagraph();
       flushList();
       flushOrderedList();

@@ -42,6 +42,6 @@ Prioritize one seating zone, one hidden-storage solution, and one overhead or pe
 
 ## Recommended products
 
-- **Keter Raised Planter Box** — Affiliate link: [Shop on Amazon.ca](https://www.amazon.ca/s?k=Keter+raised+planter+box&tag=simplekit-20)
-- **Outdoor Storage Bench Deck Box** — Affiliate link: [Shop on Amazon.ca](https://www.amazon.ca/s?k=outdoor+storage+bench+deck+box&tag=simplekit-20)
-- **Addlon 48FT Outdoor String Lights** — Affiliate link: [Shop on Amazon.ca](https://www.amazon.ca/s?k=Addlon+48FT+outdoor+string+lights&tag=simplekit-20)
+- **Keter Raised Planter Box** — Affiliate link: [View on Amazon Canada](https://www.amazon.ca/dp/B07G5W2Y7R?tag=simplekit-20)
+- **Outdoor Storage Bench Deck Box** — Affiliate link: [View on Amazon Canada](https://www.amazon.ca/dp/B07Y2W8L6X?tag=simplekit-20)
+- **Addlon 48FT Outdoor String Lights** — Affiliate link: [Shop on Amazon.ca](https://www.amazon.ca/dp/B07QMKZWQF?tag=simplekit-20)
