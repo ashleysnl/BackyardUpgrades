@@ -8,6 +8,10 @@ Static affiliate-ready editorial site for backyard buying guides and outdoor liv
 - `ChatGPT Project Handover/` project continuity and handoff docs
 - `Codex Handoff/` original source packages used to build and upgrade the site
 
+GitHub Pages note:
+
+- the repo root includes a small `index.html` redirect so the Pages URL forwards into `site/`
+
 ## Local preview
 
 ```bash
