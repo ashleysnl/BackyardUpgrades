@@ -52,6 +52,7 @@
 - The site currently depends on article metadata in `articles.json` staying aligned with Markdown filenames
 - Article Markdown files now include YAML frontmatter in addition to the shared manifest
 - Product cards can also be enriched through `content/product-images.json` without rewriting the article body copy
+- Distinct products should use distinct images where possible; current key recommendations have been remapped to product-specific visuals instead of sharing one generic card image
 
 ## Content tasks still worth doing
 
@@ -60,6 +61,7 @@
 - Add category landing pages if the content library expands
 - Add richer article modules like comparison tables only if they fit the static approach
 - Add or refine exact product-level supporting copy only if the linked products change again
+- Add more product-specific images over time if new recommendations are introduced
 
 ## Known content note
 

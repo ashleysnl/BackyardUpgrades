@@ -16,7 +16,7 @@ The current implementation is a plain static website. It does not depend on a fr
 - Added a central `articles.json` manifest for article metadata
 - Upgraded article metadata with deck, description, meta title, and meta description fields
 - Replaced placeholder affiliate sections with publish-ready affiliate-tagged product links in article Markdown
-- Added a local product-image system with manifest-driven images and fallbacks
+- Added a local product-image system with manifest-driven images, product-specific image overrides, and fallbacks
 - Upgraded most affiliate links from Amazon search-result URLs to exact direct product URLs
 - Removed the public contact page and contact surface
 - Added about, affiliate disclosure, and privacy pages
@@ -33,6 +33,7 @@ The current implementation is a plain static website. It does not depend on a fr
 - No favicon or brand icon assets yet
 - Internal links inside article body copy could still be improved
 - One affiliate recommendation, `Garden Hose Timer`, still uses a search link because no approved exact direct URL has been provided
+- Article pages still rely on client-side rendering for final metadata/content hydration, which is acceptable for direct traffic but not ideal for stronger SEO
 - Crawl files and canonicals will need another pass only if the final host changes away from GitHub Pages
 
 ## Core project positioning

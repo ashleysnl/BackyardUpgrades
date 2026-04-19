@@ -19,6 +19,7 @@ python3 -m http.server 8000
 - Add site icons and brand assets
 - Confirm all internal links and article slugs work
 - Replace the remaining `Garden Hose Timer` search link if an approved exact direct product URL becomes available
+- Confirm any newly added affiliate recommendations also get a distinct product image or an intentional fallback image
 - Update `robots.txt`, `sitemap.xml`, and canonical URLs only if the final host changes away from the current GitHub Pages project URL
 - Decide whether to keep the Google Fonts dependency or self-host fonts later
 
@@ -37,7 +38,7 @@ Add favicon assets, tighten article-to-article internal links, and confirm the r
 
 ### Phase 2
 
-Improve launch polish with favicon assets, internal linking, and optional schema.
+Improve launch polish with favicon assets, internal linking, optional schema, and stronger SEO handling if organic search becomes a priority.
 
 ### Phase 3
 

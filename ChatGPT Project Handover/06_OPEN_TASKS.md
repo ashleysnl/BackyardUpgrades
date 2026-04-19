@@ -5,6 +5,7 @@
 - Decide whether to keep the site on GitHub Pages or move to a custom domain
 - Add favicon and brand assets
 - Resolve the remaining exact product-link gap for `Garden Hose Timer` if an approved URL becomes available
+- Decide whether to keep the current JS-hydrated article architecture or eventually move to more SEO-friendly pre-rendered article pages
 
 ## Medium priority
 
@@ -12,6 +13,7 @@
 - Add category landing pages
 - Add branded visual assets or custom social imagery
 - Improve internal linking between related articles in the body copy
+- Keep extending product-specific imagery as new affiliate picks are added
 
 ## Lower priority
 

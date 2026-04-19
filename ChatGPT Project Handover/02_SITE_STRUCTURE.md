@@ -28,7 +28,7 @@
   Article content files in Markdown format with YAML frontmatter and embedded affiliate-tagged product links.
 
 - `content/product-images.json`
-  Product manifest used to map article product names to local images, affiliate URLs, supporting copy, and fallback keys.
+  Product manifest used to map article product names to local images, affiliate URLs, supporting copy, and fallback keys. The current system supports both generic category fallbacks and product-specific image overrides.
 
 - `content/image-sources.json`
   Source log for the reuse-safe product-type photography stored locally in the site.
@@ -60,6 +60,15 @@ The article page:
 4. Strips YAML frontmatter from the Markdown file
 5. Converts the Markdown into HTML using the lightweight renderer in `assets/article.js`
 6. Resolves product-card imagery and fallback assets from `content/product-images.json`
+
+## Product image note
+
+The site now has a mixed image strategy:
+
+- product-specific images for key affiliate recommendations
+- category-level fallback images when a product-specific image is unavailable
+
+That means future content updates should prefer adding a dedicated product image first, then fall back to the broader category image only when necessary.
 
 ## Important implementation note
 
