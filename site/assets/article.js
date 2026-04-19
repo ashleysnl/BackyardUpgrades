@@ -1,4 +1,5 @@
 const manifestUrl = "./content/articles.json";
+const productManifestUrl = "./content/product-images.json";
 
 const titleEl = document.querySelector("#article-title");
 const deckEl = document.querySelector("#article-deck");
@@ -25,11 +26,15 @@ async function init() {
     return;
   }
 
-  const response = await fetch(manifestUrl);
-  const articles = (await response.json()).map((entry) => ({
+  const [articlesResponse, productManifestResponse] = await Promise.all([
+    fetch(manifestUrl),
+    fetch(productManifestUrl)
+  ]);
+  const articles = (await articlesResponse.json()).map((entry) => ({
     ...entry,
     categoryLabel: entry.categoryLabel || entry.category
   }));
+  const productImageIndex = buildProductImageIndex(await productManifestResponse.json());
   const article = articles.find((entry) => entry.slug === slug) || articles[0];
 
   titleEl.textContent = article.title;
@@ -49,7 +54,7 @@ async function init() {
 
   const markdownResponse = await fetch(`./content/articles/${article.slug}.md`);
   const markdown = stripFrontmatter(await markdownResponse.text());
-  bodyEl.innerHTML = renderMarkdown(markdown);
+  bodyEl.innerHTML = renderMarkdown(markdown, article.slug, productImageIndex);
   attachImageFallbacks(bodyEl);
 
   const related = articles
@@ -68,7 +73,7 @@ async function init() {
     .join("");
 }
 
-function renderMarkdown(markdown) {
+function renderMarkdown(markdown, articleSlug, productImageIndex) {
   const lines = markdown.split("\n");
   const blocks = [];
   let paragraph = [];
@@ -111,7 +116,7 @@ function renderMarkdown(markdown) {
         flushParagraph();
         flushList();
         flushOrderedList();
-        blocks.push(renderProductBlock(productBlock));
+        blocks.push(renderProductBlock(productBlock, articleSlug, productImageIndex));
         productBlock = null;
         continue;
       }
@@ -179,7 +184,7 @@ function renderMarkdown(markdown) {
       flushParagraph();
       flushOrderedList();
       if (inRecommendedProducts) {
-        blocks.push(renderRecommendedProduct(line.slice(2)));
+        blocks.push(renderRecommendedProduct(line.slice(2), articleSlug, productImageIndex));
         continue;
       }
       listItems.push(line.slice(2));
@@ -210,12 +215,25 @@ function renderMarkdown(markdown) {
   return blocks.join("");
 }
 
-function renderRecommendedProduct(text) {
+function renderRecommendedProduct(text, articleSlug, productImageIndex) {
   const match = text.match(/\*\*(.+?)\*\*\s+—\s+Affiliate link:\s+\[([^\]]+)\]\(([^)]+)\)/);
   if (!match) {
     return `<ul><li>${formatInline(text)}</li></ul>`;
   }
   const [, productName, linkLabel, href] = match;
+  const product = resolveProductEntry(productImageIndex, articleSlug, productName);
+  if (product) {
+    return renderProductCard({
+      productName,
+      href,
+      ctaLabel: linkLabel,
+      note: product.supportingCopy,
+      image: product.image,
+      alt: product.alt,
+      fallback: resolveFallbackEntry(productImageIndex, product.fallbackKey)
+    });
+  }
+
   return `
     <div class="affiliate-card">
       <div>
@@ -230,22 +248,33 @@ function renderRecommendedProduct(text) {
   `;
 }
 
-function renderProductBlock(block) {
-  const image = block.image ? renderProductImage(block.image, block.name || "Product image") : "";
-  const note = block.note ? `<p>${formatInline(block.note)}</p>` : "";
-  const name = block.name ? `<strong>${formatInline(block.name)}</strong>` : "";
-  const ctaLabel = block.cta || "Check price on Amazon";
-  const href = block.url || "#";
+function renderProductBlock(block, articleSlug, productImageIndex) {
+  const product = block.name ? resolveProductEntry(productImageIndex, articleSlug, block.name) : null;
+  return renderProductCard({
+    productName: block.name || product?.productName || "Recommended Product",
+    href: block.url || product?.affiliateUrl || "#",
+    ctaLabel: block.cta || "Check price on Amazon",
+    note: block.note || product?.supportingCopy,
+    image: product?.image || block.image,
+    alt: block.alt || product?.alt || `${block.name || "Product"} lifestyle photo`,
+    fallback: resolveFallbackEntry(productImageIndex, product?.fallbackKey || block.fallback)
+  });
+}
+
+function renderProductCard({ productName, href, ctaLabel, note, image, alt, fallback }) {
+  const imageMarkup = image ? renderProductImage(image, alt || productName || "Product image", fallback) : "";
+  const noteMarkup = note ? `<p>${formatInline(note)}</p>` : "";
+  const nameMarkup = productName ? `<strong>${formatInline(productName)}</strong>` : "";
 
   return `
-    <section class="product-card${image ? "" : " product-card--missing-image"}">
+    <section class="product-card${imageMarkup ? "" : " product-card--missing-image"}">
       <div class="product-card__media">
-        ${image}
+        ${imageMarkup}
       </div>
       <div class="product-card__content">
         <p class="panel-label">Recommended Product</p>
-        ${name}
-        ${note}
+        ${nameMarkup}
+        ${noteMarkup}
         <a class="button primary" href="${escapeAttribute(href)}" target="_blank" rel="noopener noreferrer sponsored">
           ${formatInline(ctaLabel)}
         </a>
@@ -254,13 +283,18 @@ function renderProductBlock(block) {
   `;
 }
 
-function renderProductImage(src, alt) {
+function renderProductImage(src, alt, fallback) {
+  const fallbackAttributes = fallback
+    ? ` data-fallback-src="${escapeAttribute(fallback.image)}" data-fallback-alt="${escapeAttribute(
+        fallback.alt || alt
+      )}"`
+    : "";
   return `
     <img
       src="${escapeAttribute(src)}"
       alt="${escapeAttribute(alt)}"
       loading="lazy"
-      decoding="async"
+      decoding="async"${fallbackAttributes}
     />
   `;
 }
@@ -302,6 +336,48 @@ function escapeAttribute(text) {
     .replace(/>/g, "&gt;");
 }
 
+function normalizeLookupKey(text) {
+  return String(text || "")
+    .trim()
+    .toLowerCase();
+}
+
+function buildProductImageIndex(manifest) {
+  const exact = new Map();
+  const byName = new Map();
+  const fallbacks = new Map();
+
+  (manifest.products || []).forEach((entry) => {
+    const normalizedName = normalizeLookupKey(entry.productName);
+    exact.set(`${entry.articleSlug}::${normalizedName}`, entry);
+    if (!byName.has(normalizedName)) {
+      byName.set(normalizedName, entry);
+    }
+  });
+
+  (manifest.fallbacks || []).forEach((entry) => {
+    fallbacks.set(entry.fallbackKey, entry);
+  });
+
+  return { exact, byName, fallbacks };
+}
+
+function resolveProductEntry(productImageIndex, articleSlug, productName) {
+  const normalizedName = normalizeLookupKey(productName);
+  return (
+    productImageIndex.exact.get(`${articleSlug}::${normalizedName}`) ||
+    productImageIndex.byName.get(normalizedName) ||
+    null
+  );
+}
+
+function resolveFallbackEntry(productImageIndex, fallbackKey) {
+  if (!fallbackKey) {
+    return null;
+  }
+  return productImageIndex.fallbacks.get(fallbackKey) || null;
+}
+
 function stripFrontmatter(markdown) {
   if (!markdown.startsWith("---")) {
     return markdown;
@@ -316,6 +392,16 @@ function stripFrontmatter(markdown) {
 function attachImageFallbacks(root) {
   root.querySelectorAll("img").forEach((image) => {
     const handleMissing = () => {
+      if (image.dataset.fallbackSrc && image.getAttribute("src") !== image.dataset.fallbackSrc) {
+        image.src = image.dataset.fallbackSrc;
+        if (image.dataset.fallbackAlt) {
+          image.alt = image.dataset.fallbackAlt;
+        }
+        image.removeAttribute("data-fallback-src");
+        image.removeAttribute("data-fallback-alt");
+        return;
+      }
+
       const figure = image.closest(".prose-image");
       if (figure) {
         figure.classList.add("prose-image--missing");

@@ -87,13 +87,15 @@ Before publishing publicly:
 Product images live in:
 
 - `assets/images/products/`
+- `content/product-images.json`
+- `content/image-sources.json`
 
 Recommended authoring pattern for article product sections:
 
 ```text
 :::product
 name: Product Name
-image: ./assets/images/products/category/example-product.svg
+image: ./assets/images/products/category/example-product.jpg
 note: One short sentence explaining why this product fits the guide.
 cta: Check price on Amazon.ca
 url: https://example.com/affiliate-link
@@ -104,7 +106,9 @@ Notes:
 
 - the renderer supports this block inside article Markdown
 - the site also supports standalone Markdown images like `![Alt text](./assets/images/products/...)`
-- if an image file is missing, the article still renders and the card collapses cleanly without the image
+- `content/product-images.json` can override card images, alt text, and support copy without rewriting article Markdown
+- `content/image-sources.json` tracks the stock-photo source page for each downloaded image
+- if an image file is missing, the article now falls back to the configured product-type image before collapsing the card
 - existing list-style recommended-product blocks still work, so older articles do not need to be rewritten immediately
 
 ## Deployment

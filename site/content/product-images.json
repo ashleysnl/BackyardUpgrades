@@ -1,0 +1,498 @@
+{
+  "fallbacks": [
+    {
+      "fallbackKey": "lighting:solar-garden-light",
+      "productType": "solar-garden-light",
+      "image": "./assets/images/products/lighting--solar-garden-light--1.jpg",
+      "alt": "Warm garden solar lights illuminating planters and a backyard edge at night."
+    },
+    {
+      "fallbackKey": "lighting:pathway-light",
+      "productType": "pathway-light",
+      "image": "./assets/images/products/lighting--pathway-light--1.jpg",
+      "alt": "A landscaped backyard path lined with warm outdoor pathway lights."
+    },
+    {
+      "fallbackKey": "lighting:string-lights",
+      "productType": "string-lights",
+      "image": "./assets/images/products/lighting--string-lights--1.jpg",
+      "alt": "Warm outdoor string lights creating a cozy patio ambiance at dusk."
+    },
+    {
+      "fallbackKey": "lighting:smart-string-lights",
+      "productType": "smart-string-lights",
+      "image": "./assets/images/products/lighting--smart-string-lights--1.jpg",
+      "alt": "A backyard garden glowing with decorative string lighting after dark."
+    },
+    {
+      "fallbackKey": "fire-pits:wood-fire-pit",
+      "productType": "wood-fire-pit",
+      "image": "./assets/images/products/fire-pits--wood-fire-pit--1.jpg",
+      "alt": "A real wood fire pit burning outdoors in a backyard or campsite setting."
+    },
+    {
+      "fallbackKey": "fire-pits:propane-fire-pit",
+      "productType": "propane-fire-pit",
+      "image": "./assets/images/products/fire-pits--propane-fire-pit--1.jpg",
+      "alt": "A modern backyard patio with a clean-burning fire pit and lounge seating."
+    },
+    {
+      "fallbackKey": "fire-pits:fire-pit-cover",
+      "productType": "fire-pit-cover",
+      "image": "./assets/images/products/fire-pits--fire-pit-cover--1.jpg",
+      "alt": "A tidy outdoor dining and patio setup representing covered fire-pit storage."
+    },
+    {
+      "fallbackKey": "gardening:raised-bed",
+      "productType": "raised-bed",
+      "image": "./assets/images/products/gardening--raised-bed--1.jpg",
+      "alt": "A tidy raised garden bed filled with healthy seedlings and flowers."
+    },
+    {
+      "fallbackKey": "gardening:garden-hoops-cover",
+      "productType": "garden-hoops-cover",
+      "image": "./assets/images/products/gardening--garden-hoops-cover--1.jpg",
+      "alt": "A backyard gardening setup with protective cover structure for season extension."
+    },
+    {
+      "fallbackKey": "gardening:seedling-tray",
+      "productType": "seedling-tray",
+      "image": "./assets/images/products/gardening--seedling-tray--1.jpg",
+      "alt": "Seed starter trays holding young plants ready for transplanting."
+    },
+    {
+      "fallbackKey": "gardening:garden-hose",
+      "productType": "garden-hose-timer",
+      "image": "./assets/images/products/gardening--garden-hose--1.jpg",
+      "alt": "A garden being watered with a hose, representing easy irrigation control."
+    },
+    {
+      "fallbackKey": "smart-backyard:wall-plug",
+      "productType": "smart-plug",
+      "image": "./assets/images/products/smart-backyard--wall-plug--1.jpg",
+      "alt": "A wall outlet with smart-style plugs for easy lighting and device control."
+    },
+    {
+      "fallbackKey": "smart-backyard:outdoor-camera",
+      "productType": "outdoor-camera",
+      "image": "./assets/images/products/smart-backyard--outdoor-camera--1.jpg",
+      "alt": "An outdoor security camera mounted on an exterior wall."
+    },
+    {
+      "fallbackKey": "comfort:outdoor-blanket",
+      "productType": "outdoor-blanket",
+      "image": "./assets/images/products/comfort--outdoor-blanket--1.jpg",
+      "alt": "A cozy patio scene with an outdoor blanket draped for evening use."
+    },
+    {
+      "fallbackKey": "comfort:patio-heater",
+      "productType": "patio-heater",
+      "image": "./assets/images/products/comfort--patio-heater--1.jpg",
+      "alt": "A freestanding patio heater in an outdoor yard setting."
+    },
+    {
+      "fallbackKey": "comfort:planter-box",
+      "productType": "planter-box",
+      "image": "./assets/images/products/comfort--planter-box--1.jpg",
+      "alt": "A wooden raised planter box in a backyard or patio garden setting."
+    },
+    {
+      "fallbackKey": "comfort:storage-bench",
+      "productType": "storage-bench",
+      "image": "./assets/images/products/comfort--storage-bench--1.jpg",
+      "alt": "An outdoor bench on a patio representing dual-purpose backyard storage seating."
+    }
+  ],
+  "products": [
+    {
+      "articleSlug": "automate-backyard-lighting",
+      "articleTitle": "Automate Backyard Lighting",
+      "productName": "Amazon Basics Outdoor Smart Plug",
+      "productType": "smart-plug",
+      "fallbackKey": "smart-backyard:wall-plug",
+      "affiliateUrl": "https://www.amazon.ca/s?k=Amazon+Basics+Outdoor+Smart+Plug+Alexa&tag=simplekit-20",
+      "image": "./assets/images/products/smart-backyard--wall-plug--1.jpg",
+      "alt": "A weather-ready plug setup representing simple outdoor smart plug control.",
+      "supportingCopy": "A clean choice for putting patio lights and seasonal backyard devices on an easy schedule.",
+      "searchTerms": ["outdoor smart plug backyard lighting", "weatherproof smart plug patio"],
+      "imageExists": true
+    },
+    {
+      "articleSlug": "automate-backyard-lighting",
+      "articleTitle": "Automate Backyard Lighting",
+      "productName": "Amazon Smart Plug",
+      "productType": "smart-plug",
+      "fallbackKey": "smart-backyard:wall-plug",
+      "affiliateUrl": "https://www.amazon.ca/dp/B089DTMHW4?tag=simplekit-20",
+      "image": "./assets/images/products/smart-backyard--wall-plug--1.jpg",
+      "alt": "An indoor smart plug setup used to control backyard lighting from a protected outlet.",
+      "supportingCopy": "Best when your control point stays indoors or sheltered and you want the simplest routine setup possible.",
+      "searchTerms": ["indoor smart plug lighting control", "smart plug protected outlet"],
+      "imageExists": true
+    },
+    {
+      "articleSlug": "automate-backyard-lighting",
+      "articleTitle": "Automate Backyard Lighting",
+      "productName": "Smart LED Outdoor String Lights",
+      "productType": "smart-string-lights",
+      "fallbackKey": "lighting:smart-string-lights",
+      "affiliateUrl": "https://www.amazon.ca/s?k=smart+LED+outdoor+string+lights+Alexa&tag=simplekit-20",
+      "image": "./assets/images/products/lighting--smart-string-lights--1.jpg",
+      "alt": "A backyard garden lit with decorative smart-style string lights at night.",
+      "supportingCopy": "Worth the premium if you want app control, scenes, and a more immersive evening lighting setup.",
+      "searchTerms": ["smart outdoor string lights backyard", "led garden string lights night"],
+      "imageExists": true
+    },
+    {
+      "articleSlug": "backyard-lighting-under-100",
+      "articleTitle": "Backyard Lighting Under $100",
+      "productName": "Addlon 48FT Outdoor String Lights",
+      "productType": "string-lights",
+      "fallbackKey": "lighting:string-lights",
+      "affiliateUrl": "https://www.amazon.ca/s?k=Addlon+48FT+outdoor+string+lights&tag=simplekit-20",
+      "image": "./assets/images/products/lighting--string-lights--1.jpg",
+      "alt": "Warm patio string lights hung outdoors for an affordable backyard glow.",
+      "supportingCopy": "A high-impact first buy when your goal is to make the seating zone feel finished without overspending.",
+      "searchTerms": ["outdoor patio string lights dusk", "backyard cafe lights warm"],
+      "imageExists": true
+    },
+    {
+      "articleSlug": "backyard-lighting-under-100",
+      "articleTitle": "Backyard Lighting Under $100",
+      "productName": "Brightech Ambience Pro Solar String Lights",
+      "productType": "string-lights",
+      "fallbackKey": "lighting:string-lights",
+      "affiliateUrl": "https://www.amazon.ca/s?k=Brightech+Ambience+Pro+solar+string+lights&tag=simplekit-20",
+      "image": "./assets/images/products/lighting--string-lights--1.jpg",
+      "alt": "Solar-style patio string lights creating warm outdoor ambiance without visible cords.",
+      "supportingCopy": "A smart fit when you want the same atmosphere as plug-in strings without relying on outdoor power.",
+      "searchTerms": ["solar patio string lights backyard", "warm solar cafe lights"],
+      "imageExists": true
+    },
+    {
+      "articleSlug": "backyard-lighting-under-100",
+      "articleTitle": "Backyard Lighting Under $100",
+      "productName": "Brightown Globe String Lights",
+      "productType": "string-lights",
+      "fallbackKey": "lighting:string-lights",
+      "affiliateUrl": "https://www.amazon.ca/s?k=Brightown+globe+string+lights+outdoor&tag=simplekit-20",
+      "image": "./assets/images/products/lighting--string-lights--1.jpg",
+      "alt": "Decorative outdoor globe-style string lights glowing over a patio.",
+      "supportingCopy": "Great for smaller spaces where a softer decorative look matters more than maximum brightness.",
+      "searchTerms": ["outdoor globe string lights patio", "decorative backyard string lights"],
+      "imageExists": true
+    },
+    {
+      "articleSlug": "beginner-garden-setup",
+      "articleTitle": "Beginner Backyard Garden Setup",
+      "productName": "Keter Maple Raised Garden Bed",
+      "productType": "raised-bed",
+      "fallbackKey": "gardening:raised-bed",
+      "affiliateUrl": "https://www.amazon.ca/s?k=Keter+Maple+Raised+Garden+Bed&tag=simplekit-20",
+      "image": "./assets/images/products/gardening--raised-bed--1.jpg",
+      "alt": "A polished raised garden bed filled with healthy seedlings in a backyard setting.",
+      "supportingCopy": "An approachable first-bed format that keeps the layout tidy and easier to manage through the season.",
+      "searchTerms": ["raised garden bed backyard seedlings", "polished raised planter outdoor"],
+      "imageExists": true
+    },
+    {
+      "articleSlug": "beginner-garden-setup",
+      "articleTitle": "Beginner Backyard Garden Setup",
+      "productName": "Seed Starter Trays with Humidity Dome",
+      "productType": "seedling-tray",
+      "fallbackKey": "gardening:seedling-tray",
+      "affiliateUrl": "https://www.amazon.ca/s?k=seed+starter+trays+with+humidity+dome&tag=simplekit-20",
+      "image": "./assets/images/products/gardening--seedling-tray--1.jpg",
+      "alt": "Seed starter trays holding young seedlings before transplanting outdoors.",
+      "supportingCopy": "A practical add-on when you want stronger starts for tomatoes, peppers, herbs, or other short-season crops.",
+      "searchTerms": ["seed starter trays seedlings", "garden seedling tray propagation"],
+      "imageExists": true
+    },
+    {
+      "articleSlug": "beginner-garden-setup",
+      "articleTitle": "Beginner Backyard Garden Setup",
+      "productName": "Garden Hose Timer",
+      "productType": "garden-hose-timer",
+      "fallbackKey": "gardening:garden-hose",
+      "affiliateUrl": "https://www.amazon.ca/s?k=garden+hose+timer+outdoor&tag=simplekit-20",
+      "image": "./assets/images/products/gardening--garden-hose--1.jpg",
+      "alt": "A backyard garden being watered, representing simple hose-timer irrigation.",
+      "supportingCopy": "The boring but high-value buy that makes beginner watering more consistent and less easy to forget.",
+      "searchTerms": ["garden hose watering backyard beds", "irrigation hose timer garden"],
+      "imageExists": true
+    },
+    {
+      "articleSlug": "best-fire-pits-canada",
+      "articleTitle": "Best Fire Pits for Windy Backyards",
+      "productName": "Solo Stove Bonfire 2.0",
+      "productType": "wood-fire-pit",
+      "fallbackKey": "fire-pits:wood-fire-pit",
+      "affiliateUrl": "https://www.amazon.ca/s?k=Solo+Stove+Bonfire+2.0+smokeless+fire+pit&tag=simplekit-20",
+      "image": "./assets/images/products/fire-pits--wood-fire-pit--1.jpg",
+      "alt": "A clean-burning wood fire pit glowing outdoors for an evening backyard fire.",
+      "supportingCopy": "A strong shortlist option for buyers who want real fire ambiance with less smoke frustration in breezy yards.",
+      "searchTerms": ["wood fire pit backyard evening", "smokeless style fire pit outdoor"],
+      "imageExists": true
+    },
+    {
+      "articleSlug": "best-fire-pits-canada",
+      "articleTitle": "Best Fire Pits for Windy Backyards",
+      "productName": "Outland Living Mega Fire Pit",
+      "productType": "propane-fire-pit",
+      "fallbackKey": "fire-pits:propane-fire-pit",
+      "affiliateUrl": "https://www.amazon.ca/s?k=Outland+Living+Mega+propane+fire+pit&tag=simplekit-20",
+      "image": "./assets/images/products/fire-pits--propane-fire-pit--1.jpg",
+      "alt": "A tidy propane-style fire pit setup on a modern patio with seating.",
+      "supportingCopy": "The easiest recommendation for exposed patios where quick ignition, low mess, and predictable flames matter most.",
+      "searchTerms": ["propane fire pit patio seating", "modern gas fire pit backyard"],
+      "imageExists": true
+    },
+    {
+      "articleSlug": "best-fire-pits-canada",
+      "articleTitle": "Best Fire Pits for Windy Backyards",
+      "productName": "Amazon Basics Steel Lattice Fire Pit",
+      "productType": "wood-fire-pit",
+      "fallbackKey": "fire-pits:wood-fire-pit",
+      "affiliateUrl": "https://www.amazon.ca/s?k=Amazon+Basics+steel+lattice+fire+pit&tag=simplekit-20",
+      "image": "./assets/images/products/fire-pits--wood-fire-pit--1.jpg",
+      "alt": "A simple backyard wood fire pit representing a lower-cost entry-level fire pit pick.",
+      "supportingCopy": "A budget-conscious option that makes more sense when you can place it in a more sheltered backyard corner.",
+      "searchTerms": ["budget backyard fire pit wood", "basic outdoor fire pit patio"],
+      "imageExists": true
+    },
+    {
+      "articleSlug": "best-solar-lights-canada",
+      "articleTitle": "Best Solar Lights for Canadian Backyards",
+      "productName": "Nymphy Solar Spot Lights 4-Pack",
+      "productType": "solar-garden-light",
+      "fallbackKey": "lighting:solar-garden-light",
+      "affiliateUrl": "https://www.amazon.ca/s?k=Nymphy+solar+spot+lights+4+pack+outdoor&tag=simplekit-20",
+      "image": "./assets/images/products/lighting--solar-garden-light--1.jpg",
+      "alt": "Warm solar garden lights illuminating a planted backyard edge at night.",
+      "supportingCopy": "A stronger fit for highlighting shrubs, garden beds, and architectural edges than a typical low-output path light.",
+      "searchTerms": ["solar garden lights at night backyard", "solar spotlight landscape lighting"],
+      "imageExists": true
+    },
+    {
+      "articleSlug": "best-solar-lights-canada",
+      "articleTitle": "Best Solar Lights for Canadian Backyards",
+      "productName": "Gigalumi Solar Pathway Lights 12-Pack",
+      "productType": "pathway-light",
+      "fallbackKey": "lighting:pathway-light",
+      "affiliateUrl": "https://www.amazon.ca/s?k=Gigalumi+solar+pathway+lights+12+pack&tag=simplekit-20",
+      "image": "./assets/images/products/lighting--pathway-light--1.jpg",
+      "alt": "A backyard path lined with low-glare solar pathway lights.",
+      "supportingCopy": "Best for simple wayfinding along stepping stones, driveway edges, and the route from patio to shed.",
+      "searchTerms": ["solar pathway lights garden path", "outdoor path lights warm backyard"],
+      "imageExists": true
+    },
+    {
+      "articleSlug": "best-solar-lights-canada",
+      "articleTitle": "Best Solar Lights for Canadian Backyards",
+      "productName": "Addlon Solar String Lights",
+      "productType": "string-lights",
+      "fallbackKey": "lighting:string-lights",
+      "affiliateUrl": "https://www.amazon.ca/s?k=Addlon+solar+string+lights+outdoor&tag=simplekit-20",
+      "image": "./assets/images/products/lighting--string-lights--1.jpg",
+      "alt": "A warm patio setup with string lights adding overhead ambiance.",
+      "supportingCopy": "The right pick when your main goal is warmth and ambiance around a pergola, dining area, or seating zone.",
+      "searchTerms": ["solar string lights patio dusk", "backyard string lights pergola"],
+      "imageExists": true
+    },
+    {
+      "articleSlug": "cozy-backyard-setup",
+      "articleTitle": "Cozy Backyard Setup",
+      "productName": "Addlon 48FT Outdoor String Lights",
+      "productType": "string-lights",
+      "fallbackKey": "lighting:string-lights",
+      "affiliateUrl": "https://www.amazon.ca/s?k=Addlon+48FT+outdoor+string+lights&tag=simplekit-20",
+      "image": "./assets/images/products/lighting--string-lights--1.jpg",
+      "alt": "Patio string lights casting a warm, cozy glow over an outdoor sitting area.",
+      "supportingCopy": "A strong anchor layer when the goal is to make the whole backyard feel softer and more inviting after dark.",
+      "searchTerms": ["cozy backyard patio string lights", "warm outdoor cafe lights"],
+      "imageExists": true
+    },
+    {
+      "articleSlug": "cozy-backyard-setup",
+      "articleTitle": "Cozy Backyard Setup",
+      "productName": "Outdoor Throw Blanket, Waterproof Backed",
+      "productType": "outdoor-blanket",
+      "fallbackKey": "comfort:outdoor-blanket",
+      "affiliateUrl": "https://www.amazon.ca/s?k=outdoor+throw+blanket+waterproof+backed&tag=simplekit-20",
+      "image": "./assets/images/products/comfort--outdoor-blanket--1.jpg",
+      "alt": "A cozy outdoor blanket styled across a patio seating area for cool evenings.",
+      "supportingCopy": "A practical comfort layer that gets used more often than decorative extras and stores easily between evenings.",
+      "searchTerms": ["outdoor blanket patio cozy", "waterproof picnic blanket patio"],
+      "imageExists": true
+    },
+    {
+      "articleSlug": "cozy-backyard-setup",
+      "articleTitle": "Cozy Backyard Setup",
+      "productName": "Portable Propane Patio Heater",
+      "productType": "patio-heater",
+      "fallbackKey": "comfort:patio-heater",
+      "affiliateUrl": "https://www.amazon.ca/s?k=portable+propane+patio+heater+outdoor&tag=simplekit-20",
+      "image": "./assets/images/products/comfort--patio-heater--1.jpg",
+      "alt": "A portable patio heater standing outdoors to extend backyard evenings.",
+      "supportingCopy": "Useful when you want warmth for shoulder-season patio use but do not want the cleanup or siting issues of a fire pit.",
+      "searchTerms": ["portable patio heater outdoor", "propane patio heater backyard"],
+      "imageExists": true
+    },
+    {
+      "articleSlug": "propane-vs-wood-fire-pit",
+      "articleTitle": "Propane vs Wood Fire Pits",
+      "productName": "Outland Living Mega Fire Pit",
+      "productType": "propane-fire-pit",
+      "fallbackKey": "fire-pits:propane-fire-pit",
+      "affiliateUrl": "https://www.amazon.ca/s?k=Outland+Living+Mega+propane+fire+pit&tag=simplekit-20",
+      "image": "./assets/images/products/fire-pits--propane-fire-pit--1.jpg",
+      "alt": "A practical propane fire pit setup on a tidy backyard patio.",
+      "supportingCopy": "The easy-use option for homeowners who care more about frequency, cleanup, and weeknight convenience than fire-building ritual.",
+      "searchTerms": ["propane patio fire pit seating", "easy outdoor gas fire pit"],
+      "imageExists": true
+    },
+    {
+      "articleSlug": "propane-vs-wood-fire-pit",
+      "articleTitle": "Propane vs Wood Fire Pits",
+      "productName": "Solo Stove Bonfire 2.0",
+      "productType": "wood-fire-pit",
+      "fallbackKey": "fire-pits:wood-fire-pit",
+      "affiliateUrl": "https://www.amazon.ca/s?k=Solo+Stove+Bonfire+2.0+smokeless+fire+pit&tag=simplekit-20",
+      "image": "./assets/images/products/fire-pits--wood-fire-pit--1.jpg",
+      "alt": "A real wood fire pit burning outdoors for a traditional backyard fire experience.",
+      "supportingCopy": "The stronger emotional choice when you want real flame character and do not mind a little more work around fuel and cleanup.",
+      "searchTerms": ["wood burning fire pit backyard", "outdoor campfire style fire pit"],
+      "imageExists": true
+    },
+    {
+      "articleSlug": "propane-vs-wood-fire-pit",
+      "articleTitle": "Propane vs Wood Fire Pits",
+      "productName": "Fire Pit Cover 30 Inch Round",
+      "productType": "fire-pit-cover",
+      "fallbackKey": "fire-pits:fire-pit-cover",
+      "affiliateUrl": "https://www.amazon.ca/s?k=30+inch+round+fire+pit+cover+outdoor&tag=simplekit-20",
+      "image": "./assets/images/products/fire-pits--fire-pit-cover--1.jpg",
+      "alt": "A clean outdoor patio scene representing practical fire-pit protection and storage.",
+      "supportingCopy": "A maintenance-minded add-on that helps preserve a fire pit setup between uses, even though the photo is category-level rather than exact.",
+      "searchTerms": ["fire pit cover patio storage", "covered patio outdoor furniture protection"],
+      "imageExists": true
+    },
+    {
+      "articleSlug": "raised-garden-beds-canada",
+      "articleTitle": "Best Raised Garden Beds for Cold Climates",
+      "productName": "Keter Maple Raised Garden Bed",
+      "productType": "raised-bed",
+      "fallbackKey": "gardening:raised-bed",
+      "affiliateUrl": "https://www.amazon.ca/s?k=Keter+Maple+Raised+Garden+Bed&tag=simplekit-20",
+      "image": "./assets/images/products/gardening--raised-bed--1.jpg",
+      "alt": "A neat raised garden bed planted for a productive backyard growing season.",
+      "supportingCopy": "A polished low-maintenance option for gardeners who want a cleaner look and less material upkeep over time.",
+      "searchTerms": ["raised garden bed planted backyard", "resin raised bed garden"],
+      "imageExists": true
+    },
+    {
+      "articleSlug": "raised-garden-beds-canada",
+      "articleTitle": "Best Raised Garden Beds for Cold Climates",
+      "productName": "Galvanized Steel Raised Garden Bed",
+      "productType": "raised-bed",
+      "fallbackKey": "gardening:raised-bed",
+      "affiliateUrl": "https://www.amazon.ca/s?k=galvanized+steel+raised+garden+bed+outdoor&tag=simplekit-20",
+      "image": "./assets/images/products/gardening--raised-bed--1.jpg",
+      "alt": "A sturdy raised garden bed representing durable metal-style garden bed setups.",
+      "supportingCopy": "Usually the best value choice when the priority is planting volume, durability, and straightforward vegetable production.",
+      "searchTerms": ["metal raised garden bed backyard", "galvanized raised bed garden"],
+      "imageExists": true
+    },
+    {
+      "articleSlug": "raised-garden-beds-canada",
+      "articleTitle": "Best Raised Garden Beds for Cold Climates",
+      "productName": "Garden Bed Cover Hoops and Mesh",
+      "productType": "garden-hoops-cover",
+      "fallbackKey": "gardening:garden-hoops-cover",
+      "affiliateUrl": "https://www.amazon.ca/s?k=raised+garden+bed+hoops+cover+mesh&tag=simplekit-20",
+      "image": "./assets/images/products/gardening--garden-hoops-cover--1.jpg",
+      "alt": "A backyard garden cover setup used for protecting beds and extending the season.",
+      "supportingCopy": "A simple season-extension add-on that helps with frost protection, pest control, and shoulder-season growing.",
+      "searchTerms": ["garden hoops cover raised bed", "season extension garden cover backyard"],
+      "imageExists": true
+    },
+    {
+      "articleSlug": "small-backyard-transformation",
+      "articleTitle": "Small Backyard Transformation",
+      "productName": "Keter Raised Planter Box",
+      "productType": "planter-box",
+      "fallbackKey": "comfort:planter-box",
+      "affiliateUrl": "https://www.amazon.ca/s?k=Keter+raised+planter+box&tag=simplekit-20",
+      "image": "./assets/images/products/comfort--planter-box--1.jpg",
+      "alt": "A raised planter box used to add greenery without taking over a small patio or yard.",
+      "supportingCopy": "A compact greenery upgrade that adds planting space without consuming the whole footprint of a small yard.",
+      "searchTerms": ["raised planter box patio", "compact planter box backyard"],
+      "imageExists": true
+    },
+    {
+      "articleSlug": "small-backyard-transformation",
+      "articleTitle": "Small Backyard Transformation",
+      "productName": "Outdoor Storage Bench Deck Box",
+      "productType": "storage-bench",
+      "fallbackKey": "comfort:storage-bench",
+      "affiliateUrl": "https://www.amazon.ca/s?k=outdoor+storage+bench+deck+box&tag=simplekit-20",
+      "image": "./assets/images/products/comfort--storage-bench--1.jpg",
+      "alt": "An outdoor bench that represents seating plus hidden backyard storage.",
+      "supportingCopy": "One of the best small-yard moves because it adds seating and hidden storage without asking for extra footprint.",
+      "searchTerms": ["outdoor storage bench patio", "deck box bench backyard"],
+      "imageExists": true
+    },
+    {
+      "articleSlug": "small-backyard-transformation",
+      "articleTitle": "Small Backyard Transformation",
+      "productName": "Addlon 48FT Outdoor String Lights",
+      "productType": "string-lights",
+      "fallbackKey": "lighting:string-lights",
+      "affiliateUrl": "https://www.amazon.ca/s?k=Addlon+48FT+outdoor+string+lights&tag=simplekit-20",
+      "image": "./assets/images/products/lighting--string-lights--1.jpg",
+      "alt": "Perimeter string lights adding height and atmosphere to a small backyard.",
+      "supportingCopy": "A fast visual upgrade per square foot because it defines the space without taking any floor area away.",
+      "searchTerms": ["small backyard string lights perimeter", "patio string lights compact yard"],
+      "imageExists": true
+    },
+    {
+      "articleSlug": "smart-backyard-setup",
+      "articleTitle": "Smart Backyard Setup",
+      "productName": "Amazon Smart Plug",
+      "productType": "smart-plug",
+      "fallbackKey": "smart-backyard:wall-plug",
+      "affiliateUrl": "https://www.amazon.ca/dp/B089DTMHW4?tag=simplekit-20",
+      "image": "./assets/images/products/smart-backyard--wall-plug--1.jpg",
+      "alt": "A smart plug configuration used to automate everyday backyard devices from indoors.",
+      "supportingCopy": "A strong fit when the powered device stays indoors or under cover and you want dead-simple control.",
+      "searchTerms": ["smart plug indoor patio lighting", "home automation plug lighting"],
+      "imageExists": true
+    },
+    {
+      "articleSlug": "smart-backyard-setup",
+      "articleTitle": "Smart Backyard Setup",
+      "productName": "Amazon Basics Outdoor Smart Plug",
+      "productType": "smart-plug",
+      "fallbackKey": "smart-backyard:wall-plug",
+      "affiliateUrl": "https://www.amazon.ca/s?k=Amazon+Basics+Outdoor+Smart+Plug+Alexa&tag=simplekit-20",
+      "image": "./assets/images/products/smart-backyard--wall-plug--1.jpg",
+      "alt": "An outdoor-ready smart plug setup for patio lights and seasonal backyard devices.",
+      "supportingCopy": "The better match when your backyard control point lives outside and needs to handle weather exposure.",
+      "searchTerms": ["outdoor smart plug backyard patio", "weatherproof automation plug"],
+      "imageExists": true
+    },
+    {
+      "articleSlug": "smart-backyard-setup",
+      "articleTitle": "Smart Backyard Setup",
+      "productName": "TP-Link Tapo C500 Outdoor Camera",
+      "productType": "outdoor-camera",
+      "fallbackKey": "smart-backyard:outdoor-camera",
+      "affiliateUrl": "https://www.amazon.ca/s?k=TP-Link+Tapo+C500+outdoor+camera&tag=simplekit-20",
+      "image": "./assets/images/products/smart-backyard--outdoor-camera--1.jpg",
+      "alt": "An outdoor security camera mounted on an exterior wall overlooking a yard.",
+      "supportingCopy": "A useful add-on when you want quick visual coverage of the yard, side path, or gate without adding much friction.",
+      "searchTerms": ["outdoor security camera wall mount", "backyard camera exterior wall"],
+      "imageExists": true
+    }
+  ]
+}
