@@ -1,0 +1,45 @@
+# Best Solar Lights for Canadian Backyards
+
+Canadian backyards ask more from solar lighting than many warmer climates. Shorter winter daylight hours, freeze-thaw cycles, and wet weather can all expose weak materials and underpowered batteries. If you want reliable pathway or accent lighting, it helps to focus on durability, battery performance, and simple installation instead of chasing the cheapest listing.
+
+## What to Look For
+
+Good solar lights for Canadian use should have weather-resistant housings, enough brightness for the intended space, and batteries that recharge efficiently during shorter daylight windows. Path lights work well for walkways and garden borders, while string lights are better for patios, pergolas, and seating zones.
+
+## Product Comparisons
+
+### Solar Path Lights
+
+Solar path lights are usually the easiest place to start. They help define edges, improve nighttime visibility, and add a polished look without requiring any wiring. Look for metal or heavy-duty plastic bodies, sealed battery compartments, and a warm white light that feels inviting rather than harsh.
+
+Affiliate placeholder: [Solar Path Lights on Amazon](AMAZON_AFFILIATE_LINK_SOLAR_PATH_LIGHTS)
+
+Best for:
+- Front walkways
+- Garden bed borders
+- Driveway edges
+
+Potential downside:
+- Performance drops in heavily shaded yards
+
+### String Lights
+
+Outdoor string lights create a softer and more social atmosphere. They are ideal if your goal is to make a deck or patio feel more usable in the evening. Solar versions are easiest to install, but they need a sunny panel location and realistic expectations about winter performance.
+
+Affiliate placeholder: [Outdoor String Lights on Amazon](AMAZON_AFFILIATE_LINK_STRING_LIGHTS)
+
+Best for:
+- Dining areas
+- Pergolas
+- Fence lines
+
+Potential downside:
+- Less effective as task lighting
+
+## Practical Advice
+
+If your yard gets mixed sun, use solar path lights where the panel gets the most direct afternoon light and reserve decorative string lights for seasonal use. For year-round setups, prioritize fewer high-quality lights over a large pack of dim fixtures. Cleaning the panels a few times each season also makes a noticeable difference in charging performance.
+
+For most Canadian backyards, a combination of path lights for visibility and string lights for ambiance gives the best balance. Start with the zones you use most often, then expand once you know how the lights perform through changing weather.
+
+As an Amazon Associate I earn from qualifying purchases.

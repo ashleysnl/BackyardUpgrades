@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-labelledby="title desc">
+  <title id="title">Galvanized Steel Raised Garden Bed</title>
+  <desc id="desc">Stylized product placeholder illustration for a galvanized steel raised bed.</desc>
+  <rect width="800" height="560" fill="#f5eee4"/>
+  <ellipse cx="400" cy="378" rx="254" ry="84" fill="#bac1c5"/>
+  <ellipse cx="400" cy="378" rx="220" ry="54" fill="#6a9551"/>
+  <ellipse cx="400" cy="310" rx="254" ry="84" fill="#d6dadd"/>
+  <ellipse cx="400" cy="310" rx="220" ry="54" fill="#8ab06e"/>
+  <rect x="146" y="310" width="12" height="78" fill="#9ca4aa"/>
+  <rect x="642" y="310" width="12" height="78" fill="#9ca4aa"/>
+  <text x="88" y="110" fill="#7f3a1b" font-family="Manrope, Arial, sans-serif" font-size="34" font-weight="800">Great value planting volume for vegetables and herbs</text>
+</svg>

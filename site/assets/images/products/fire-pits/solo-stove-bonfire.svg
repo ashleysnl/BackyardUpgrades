@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-labelledby="title desc">
+  <title id="title">Solo Stove Bonfire</title>
+  <desc id="desc">Stylized product placeholder illustration for a smokeless fire pit.</desc>
+  <rect width="800" height="560" fill="#f4ece0"/>
+  <ellipse cx="400" cy="430" rx="250" ry="58" fill="#c8b39d"/>
+  <path d="M260 188h280l44 220H216z" fill="#5f665f"/>
+  <ellipse cx="400" cy="188" rx="140" ry="34" fill="#7d857e"/>
+  <ellipse cx="400" cy="188" rx="118" ry="23" fill="#262d29"/>
+  <path d="M382 186c-24-42 28-80 42-112 16 20 63 67 28 114 27-9 47-2 62 16-10 36-46 68-90 68-48 0-90-26-94-69 17-15 33-21 52-17z" fill="#d36d2d"/>
+  <path d="M395 205c-14-25 17-46 25-65 9 11 37 39 16 66 16-5 29-1 38 9-6 21-29 39-56 39-30 0-55-15-58-39 10-8 20-12 35-10z" fill="#f2c46d"/>
+  <text x="70" y="88" fill="#7f3a1b" font-family="Manrope, Arial, sans-serif" font-size="34" font-weight="800">Smokeless-style wood pit for cleaner evenings</text>
+</svg>

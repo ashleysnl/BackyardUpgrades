@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-labelledby="title desc">
+  <title id="title">Garden Bed Cover Hoops and Mesh</title>
+  <desc id="desc">Stylized product placeholder illustration for garden bed cover hoops and mesh.</desc>
+  <rect width="800" height="560" fill="#f4ede3"/>
+  <rect x="178" y="286" width="444" height="118" rx="18" fill="#78a062"/>
+  <path d="M208 330c0-120 80-190 192-190s192 70 192 190" fill="none" stroke="#bfc9c3" stroke-width="18"/>
+  <path d="M250 330c0-85 58-136 150-136s150 51 150 136" fill="none" stroke="#d9dfdb" stroke-width="10" stroke-dasharray="10 12"/>
+  <path d="M0 448c126-57 262-85 398-85 150 0 283 25 402 78v119H0z" fill="#708163"/>
+  <text x="86" y="106" fill="#7f3a1b" font-family="Cormorant Garamond, serif" font-size="50" font-weight="700">Cover hoops for frost and pest protection</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-labelledby="title desc">
+  <title id="title">Outland Living Mega Fire Pit</title>
+  <desc id="desc">Stylized product placeholder illustration for a propane fire pit.</desc>
+  <rect width="800" height="560" fill="#f6efe6"/>
+  <rect x="150" y="220" width="500" height="180" rx="30" fill="#676d67"/>
+  <rect x="188" y="250" width="424" height="124" rx="24" fill="#2d332f"/>
+  <circle cx="400" cy="314" r="12" fill="#b0a696"/>
+  <circle cx="360" cy="314" r="10" fill="#998f80"/>
+  <circle cx="440" cy="314" r="10" fill="#998f80"/>
+  <path d="M388 264c-18-31 18-57 26-82 10 13 40 48 16 83 18-6 32-1 42 11-7 26-31 48-62 48-33 0-61-17-64-48 11-10 22-15 42-12z" fill="#d2692d"/>
+  <path d="M398 280c-10-18 11-34 17-49 6 8 23 29 9 49 11-4 20 0 27 7-4 16-20 29-39 29-21 0-38-11-40-29 7-6 14-9 26-7z" fill="#f0c56d"/>
+  <text x="118" y="110" fill="#7f3a1b" font-family="Cormorant Garamond, serif" font-size="54" font-weight="700">Easy propane setup</text>
+  <text x="118" y="150" fill="#5b665d" font-family="Manrope, Arial, sans-serif" font-size="24">Fast ignition and less cleanup in exposed yards</text>
+</svg>

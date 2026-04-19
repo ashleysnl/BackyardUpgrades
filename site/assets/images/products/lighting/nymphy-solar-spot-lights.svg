@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-labelledby="title desc">
+  <title id="title">Nymphy Solar Spot Lights</title>
+  <desc id="desc">Stylized product placeholder illustration for solar spot lights.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fff8ef"/>
+      <stop offset="100%" stop-color="#eadbcc"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#323b35"/>
+      <stop offset="100%" stop-color="#171d19"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="560" fill="url(#bg)"/>
+  <circle cx="130" cy="110" r="58" fill="#f2c46d" opacity="0.9"/>
+  <g transform="translate(130 355)">
+    <rect x="-10" y="-165" width="26" height="215" rx="13" fill="#2e372f"/>
+    <rect x="-56" y="-198" width="118" height="74" rx="14" fill="url(#panel)"/>
+    <circle cx="3" cy="-160" r="30" fill="#4d5b51"/>
+    <circle cx="3" cy="-160" r="20" fill="#e5a64e"/>
+  </g>
+  <g transform="translate(400 310) scale(1.15)">
+    <rect x="-10" y="-165" width="26" height="215" rx="13" fill="#2e372f"/>
+    <rect x="-56" y="-198" width="118" height="74" rx="14" fill="url(#panel)"/>
+    <circle cx="3" cy="-160" r="30" fill="#4d5b51"/>
+    <circle cx="3" cy="-160" r="20" fill="#e5a64e"/>
+  </g>
+  <g transform="translate(655 345)">
+    <rect x="-10" y="-165" width="26" height="215" rx="13" fill="#2e372f"/>
+    <rect x="-56" y="-198" width="118" height="74" rx="14" fill="url(#panel)"/>
+    <circle cx="3" cy="-160" r="30" fill="#4d5b51"/>
+    <circle cx="3" cy="-160" r="20" fill="#e5a64e"/>
+  </g>
+  <path d="M0 505c118-47 217-62 314-46 118 21 226 17 486-27v128H0z" fill="#6d7f63"/>
+  <text x="60" y="470" fill="#7f3a1b" font-family="Manrope, Arial, sans-serif" font-size="28" font-weight="700">Solar spot lights for shrubs, paths, and accent zones</text>
+</svg>

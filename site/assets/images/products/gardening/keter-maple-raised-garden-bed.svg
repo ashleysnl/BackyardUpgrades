@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-labelledby="title desc">
+  <title id="title">Keter Maple Raised Garden Bed</title>
+  <desc id="desc">Stylized product placeholder illustration for a raised garden bed.</desc>
+  <rect width="800" height="560" fill="#f4ede3"/>
+  <rect x="176" y="198" width="448" height="182" rx="18" fill="#7d6551"/>
+  <rect x="204" y="220" width="392" height="138" rx="12" fill="#5c8a4f"/>
+  <path d="M208 222c50 20 86 27 128 24 57-5 105-34 157-35 58-2 108 24 103 53-5 28-23 34-39 36-49 7-88-22-140-19-57 3-98 33-158 34-30 0-59-13-65-40-6-27 3-43 14-53z" fill="#79a760"/>
+  <circle cx="308" cy="248" r="26" fill="#91bc71"/>
+  <circle cx="470" cy="266" r="24" fill="#91bc71"/>
+  <path d="M0 450c107-59 244-88 402-88 152 0 284 22 398 82v116H0z" fill="#738366"/>
+  <text x="86" y="110" fill="#7f3a1b" font-family="Cormorant Garamond, serif" font-size="54" font-weight="700">Raised bed for easier soil control</text>
+</svg>

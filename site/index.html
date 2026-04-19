@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Backyard Upgrades</title>
+    <meta
+      name="description"
+      content="Premium backyard upgrade guides covering lighting, fire pits, garden setups, and smart outdoor projects."
+    />
+    <meta property="og:title" content="Backyard Upgrades" />
+    <meta
+      property="og:description"
+      content="Premium backyard upgrade guides covering lighting, fire pits, garden setups, and smart outdoor projects."
+    />
+    <meta property="og:type" content="website" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Cormorant+Garamond:wght@500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./assets/styles.css" />
+  </head>
+  <body>
+    <div class="site-shell">
+      <header class="topbar">
+        <a class="brand" href="./index.html">
+          <span class="brand-mark">BU</span>
+          <span class="brand-copy">
+            <strong>Backyard Upgrades</strong>
+            <small>Outdoor living guides with practical product picks</small>
+          </span>
+        </a>
+        <nav class="nav-links">
+          <a href="#featured">Featured</a>
+          <a href="#library">Library</a>
+          <a href="#categories">Categories</a>
+          <a href="./about.html">About</a>
+        </nav>
+      </header>
+
+      <main>
+        <section class="hero">
+          <div class="hero-copy">
+            <p class="eyebrow">Curated for practical outdoor living</p>
+            <h1>Premium backyard inspiration that still feels useful.</h1>
+            <p class="hero-text">
+              Explore homeowner-friendly buying guides for lighting, fire pits,
+              cold-climate gardening, and smart backyard upgrades. Built to host
+              affiliate-ready content without looking like an affiliate content
+              farm.
+            </p>
+            <div class="hero-actions">
+              <a class="button primary" href="#library">Browse Articles</a>
+              <a class="button secondary" href="./article.html?slug=smart-backyard-setup">Read a Featured Guide</a>
+            </div>
+          </div>
+          <aside class="hero-panel">
+            <p class="panel-label">Editor’s approach</p>
+            <ul class="panel-list">
+              <li>Clear buying advice instead of fluff</li>
+              <li>Flexible article hosting for local or GitHub deployment</li>
+              <li>Affiliate-ready content with trust and disclosure pages</li>
+            </ul>
+            <div class="hero-stats">
+              <div>
+                <strong id="article-count">10</strong>
+                <span>Articles</span>
+              </div>
+              <div>
+                <strong>5</strong>
+                <span>Core categories</span>
+              </div>
+              <div>
+                <strong>Fast</strong>
+                <span>Static hosting</span>
+              </div>
+            </div>
+          </aside>
+        </section>
+
+        <section class="featured-grid" id="featured">
+          <article class="featured-card featured-large">
+            <p class="card-tag">Featured Collection</p>
+            <h2>Design a backyard that feels warmer, smarter, and easier to use.</h2>
+            <p>
+              These starter guides balance atmosphere and practicality so visitors
+              can move from inspiration to product clicks without friction.
+            </p>
+            <a class="text-link" href="./article.html?slug=cozy-backyard-setup">Open Cozy Backyard Setup</a>
+          </article>
+          <article class="featured-card">
+            <p class="card-tag">Popular Theme</p>
+            <h3>Lighting that works in real weather</h3>
+            <p>See solar and budget-friendly lighting guides built around Canadian conditions.</p>
+            <a class="text-link" href="./article.html?slug=best-solar-lights-canada">See lighting picks</a>
+          </article>
+          <article class="featured-card">
+            <p class="card-tag">Smart Upgrade</p>
+            <h3>Automation without overcomplication</h3>
+            <p>Start with one outdoor plug and one polished lighting zone instead of a gadget pile.</p>
+            <a class="text-link" href="./article.html?slug=automate-backyard-lighting">Open automation guide</a>
+          </article>
+        </section>
+
+        <section class="library-header" id="library">
+          <div>
+            <p class="eyebrow">Article library</p>
+            <h2>Browse every guide</h2>
+          </div>
+          <div class="controls">
+            <label class="search">
+              <span class="sr-only">Search articles</span>
+              <input id="search-input" type="search" placeholder="Search titles or topics" />
+            </label>
+            <div class="filter-row" id="filter-row"></div>
+          </div>
+        </section>
+
+        <section class="article-grid" id="article-grid"></section>
+
+        <section class="category-band" id="categories">
+          <div>
+            <p class="eyebrow">Category focus</p>
+            <h2>Built for evergreen content clusters</h2>
+          </div>
+          <div class="category-chips">
+            <span>Lighting</span>
+            <span>Fire Pits</span>
+            <span>Gardening</span>
+            <span>Smart Backyard</span>
+            <span>Comfort</span>
+          </div>
+        </section>
+      </main>
+
+      <footer class="site-footer">
+        <div>
+          <strong>Backyard Upgrades</strong>
+          <p>Practical outdoor buying guides with a cleaner, more editorial feel.</p>
+        </div>
+        <nav class="footer-links">
+          <a href="./about.html">About</a>
+          <a href="./affiliate-disclosure.html">Affiliate Disclosure</a>
+          <a href="./privacy.html">Privacy</a>
+          <a href="./contact.html">Contact</a>
+        </nav>
+      </footer>
+    </div>
+
+    <script type="module" src="./assets/app.js"></script>
+  </body>
+</html>

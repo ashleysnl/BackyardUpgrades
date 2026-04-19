@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-labelledby="title desc">
+  <title id="title">Gigalumi Solar Pathway Lights</title>
+  <desc id="desc">Stylized product placeholder illustration for pathway lights.</desc>
+  <rect width="800" height="560" fill="#f7f0e6"/>
+  <rect x="0" y="420" width="800" height="140" fill="#738366"/>
+  <path d="M350 560c44-96 76-179 100-260 17-57 41-107 68-150 36-58 82-103 152-150l130 55c-46 22-87 50-126 88-38 36-69 78-93 129-28 58-63 157-106 288z" fill="#d7c7b4"/>
+  <g fill="#202822">
+    <rect x="156" y="225" width="16" height="210" rx="8"/>
+    <rect x="290" y="188" width="16" height="247" rx="8"/>
+    <rect x="424" y="160" width="16" height="275" rx="8"/>
+    <rect x="558" y="215" width="16" height="220" rx="8"/>
+  </g>
+  <g fill="#f4d08c">
+    <rect x="136" y="182" width="56" height="54" rx="12"/>
+    <rect x="270" y="145" width="56" height="54" rx="12"/>
+    <rect x="404" y="117" width="56" height="54" rx="12"/>
+    <rect x="538" y="172" width="56" height="54" rx="12"/>
+  </g>
+  <text x="54" y="90" fill="#7f3a1b" font-family="Manrope, Arial, sans-serif" font-size="34" font-weight="800">Pathway lights that guide traffic and frame a yard</text>
+</svg>

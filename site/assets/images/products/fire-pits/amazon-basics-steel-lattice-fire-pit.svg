@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-labelledby="title desc">
+  <title id="title">Amazon Basics Steel Lattice Fire Pit</title>
+  <desc id="desc">Stylized product placeholder illustration for a budget steel lattice fire pit.</desc>
+  <rect width="800" height="560" fill="#f3ebdf"/>
+  <ellipse cx="400" cy="430" rx="230" ry="52" fill="#cab7a0"/>
+  <path d="M272 206h256l36 188H236z" fill="#383d39"/>
+  <ellipse cx="400" cy="206" rx="128" ry="32" fill="#4b504c"/>
+  <path d="M286 226h228" stroke="#7a807a" stroke-width="4"/>
+  <path d="M308 246l190 118M496 246L306 364M282 276h236M266 320h268" stroke="#6f756f" stroke-width="4"/>
+  <path d="M386 228c-14-24 14-44 21-64 8 10 30 37 12 64 14-4 24-1 32 8-5 19-24 35-48 35-26 0-47-13-50-35 8-7 17-11 33-8z" fill="#d16d31"/>
+  <path d="M395 242c-7-12 8-24 11-35 4 5 16 20 7 35 8-3 15 0 19 5-3 11-14 21-29 21-15 0-28-8-30-21 5-4 10-6 22-5z" fill="#f0c46d"/>
+  <text x="82" y="90" fill="#7f3a1b" font-family="Manrope, Arial, sans-serif" font-size="32" font-weight="800">Budget-friendly entry for sheltered backyard fire nights</text>
+</svg>

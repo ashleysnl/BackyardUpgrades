@@ -1,0 +1,55 @@
+{
+  "site": "Backyard Upgrades",
+  "articles": [
+    {
+      "slug": "best-solar-lights-canada",
+      "title": "Best Solar Lights for Canadian Backyards",
+      "category": "lighting"
+    },
+    {
+      "slug": "backyard-lighting-under-100",
+      "title": "Backyard Lighting Under $100",
+      "category": "lighting"
+    },
+    {
+      "slug": "best-fire-pits-canada",
+      "title": "Best Fire Pits for Windy Backyards",
+      "category": "fire-pits"
+    },
+    {
+      "slug": "propane-vs-wood-fire-pit",
+      "title": "Propane vs Wood Fire Pits",
+      "category": "fire-pits"
+    },
+    {
+      "slug": "raised-garden-beds-canada",
+      "title": "Best Raised Garden Beds for Cold Climates",
+      "category": "gardening"
+    },
+    {
+      "slug": "beginner-garden-setup",
+      "title": "Beginner Backyard Garden Setup",
+      "category": "gardening"
+    },
+    {
+      "slug": "smart-backyard-setup",
+      "title": "Smart Backyard Setup",
+      "category": "smart-backyard"
+    },
+    {
+      "slug": "automate-backyard-lighting",
+      "title": "Automate Backyard Lighting",
+      "category": "smart-backyard"
+    },
+    {
+      "slug": "cozy-backyard-setup",
+      "title": "Cozy Backyard Setup",
+      "category": "comfort"
+    },
+    {
+      "slug": "small-backyard-transformation",
+      "title": "Small Backyard Transformation",
+      "category": "comfort"
+    }
+  ]
+}

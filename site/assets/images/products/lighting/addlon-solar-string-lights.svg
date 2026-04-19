@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-labelledby="title desc">
+  <title id="title">Addlon Solar String Lights</title>
+  <desc id="desc">Stylized product placeholder illustration for patio string lights.</desc>
+  <rect width="800" height="560" fill="#f5ecdf"/>
+  <path d="M40 120c92 26 176 42 252 48 111 8 208-16 460-104" fill="none" stroke="#2a312c" stroke-width="8" stroke-linecap="round"/>
+  <g fill="#f5c56f" stroke="#9b6a2d" stroke-width="5">
+    <circle cx="110" cy="138" r="26"/>
+    <circle cx="225" cy="161" r="26"/>
+    <circle cx="340" cy="170" r="26"/>
+    <circle cx="462" cy="152" r="26"/>
+    <circle cx="585" cy="120" r="26"/>
+    <circle cx="700" cy="78" r="26"/>
+  </g>
+  <path d="M0 438c121-85 260-129 398-129 122 0 242 34 402 115v136H0z" fill="#66775a"/>
+  <rect x="206" y="252" width="388" height="138" rx="22" fill="#ffffff" opacity="0.75"/>
+  <text x="250" y="318" fill="#7f3a1b" font-family="Cormorant Garamond, serif" font-size="46" font-weight="700">Patio mood lighting</text>
+  <text x="250" y="358" fill="#5b665d" font-family="Manrope, Arial, sans-serif" font-size="24">Warm overhead glow for dining and sitting areas</text>
+</svg>
