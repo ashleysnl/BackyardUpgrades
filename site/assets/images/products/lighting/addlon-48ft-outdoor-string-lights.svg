@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-labelledby="title desc">
+  <title id="title">Addlon 48FT Outdoor String Lights</title>
+  <desc id="desc">Stylized product placeholder illustration for warm Edison-style patio string lights.</desc>
+  <rect width="800" height="560" fill="#f5ecdf"/>
+  <path d="M42 116c88 22 170 36 252 40 108 5 223-10 464-98" fill="none" stroke="#2c312c" stroke-width="8" stroke-linecap="round"/>
+  <g>
+    <path d="M102 135v42" stroke="#2c312c" stroke-width="6" stroke-linecap="round"/>
+    <path d="M208 151v42" stroke="#2c312c" stroke-width="6" stroke-linecap="round"/>
+    <path d="M322 161v42" stroke="#2c312c" stroke-width="6" stroke-linecap="round"/>
+    <path d="M446 148v42" stroke="#2c312c" stroke-width="6" stroke-linecap="round"/>
+    <path d="M570 116v42" stroke="#2c312c" stroke-width="6" stroke-linecap="round"/>
+    <path d="M688 82v42" stroke="#2c312c" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  <g fill="#f5ca7b" stroke="#996c30" stroke-width="5">
+    <path d="M82 170c0-18 9-35 20-46 12 11 20 28 20 46 0 29-14 44-20 44s-20-15-20-44z"/>
+    <path d="M188 186c0-18 9-35 20-46 12 11 20 28 20 46 0 29-14 44-20 44s-20-15-20-44z"/>
+    <path d="M302 196c0-18 9-35 20-46 12 11 20 28 20 46 0 29-14 44-20 44s-20-15-20-44z"/>
+    <path d="M426 183c0-18 9-35 20-46 12 11 20 28 20 46 0 29-14 44-20 44s-20-15-20-44z"/>
+    <path d="M550 151c0-18 9-35 20-46 12 11 20 28 20 46 0 29-14 44-20 44s-20-15-20-44z"/>
+    <path d="M668 117c0-18 9-35 20-46 12 11 20 28 20 46 0 29-14 44-20 44s-20-15-20-44z"/>
+  </g>
+  <path d="M0 438c121-85 260-129 398-129 122 0 242 34 402 115v136H0z" fill="#69785e"/>
+  <rect x="188" y="254" width="424" height="140" rx="24" fill="#fffdf8" opacity="0.84"/>
+  <text x="234" y="318" fill="#7f3a1b" font-family="Cormorant Garamond, serif" font-size="44" font-weight="700">Warm Edison patio lights</text>
+  <text x="234" y="356" fill="#55615a" font-family="Manrope, Arial, sans-serif" font-size="24">High-impact atmosphere for pergolas, rails, and fences</text>
+</svg>

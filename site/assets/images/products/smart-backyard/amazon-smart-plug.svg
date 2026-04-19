@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-labelledby="title desc">
+  <title id="title">Amazon Smart Plug</title>
+  <desc id="desc">Stylized product placeholder illustration for an indoor smart plug used with backyard lighting.</desc>
+  <rect width="800" height="560" fill="#f3eee7"/>
+  <rect x="180" y="112" width="440" height="336" rx="34" fill="#fefcf8"/>
+  <rect x="232" y="164" width="336" height="232" rx="26" fill="#eef1ef"/>
+  <rect x="372" y="396" width="56" height="40" rx="14" fill="#dfe4e0"/>
+  <g fill="#7d847f">
+    <rect x="304" y="214" width="34" height="88" rx="16"/>
+    <rect x="462" y="214" width="34" height="88" rx="16"/>
+  </g>
+  <circle cx="400" cy="340" r="26" fill="#aeb8b1"/>
+  <path d="M396 328c-11-14 4-31 9-41 8 10 18 25 8 41 11 2 19 10 19 21 0 18-15 32-32 32s-32-14-32-32c0-12 9-20 20-21 1 0 5 0 8 0z" fill="#6b8b67"/>
+  <text x="112" y="92" fill="#6b3c1f" font-family="Cormorant Garamond, serif" font-size="52" font-weight="700">Indoor smart plug control</text>
+  <text x="112" y="132" fill="#56625c" font-family="Manrope, Arial, sans-serif" font-size="24">Best when the outlet stays dry and protected</text>
+</svg>

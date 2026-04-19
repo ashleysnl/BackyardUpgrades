@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-labelledby="title desc">
+  <title id="title">Brightech Ambience Pro Waterproof Outdoor String Lights</title>
+  <desc id="desc">Stylized product placeholder illustration for polished cafe-style outdoor string lights.</desc>
+  <rect width="800" height="560" fill="#f2ece6"/>
+  <path d="M30 110c143 33 269 48 393 38 118-10 225-40 347-92" fill="none" stroke="#27312c" stroke-width="7" stroke-linecap="round"/>
+  <g>
+    <path d="M118 136v34" stroke="#27312c" stroke-width="5" stroke-linecap="round"/>
+    <path d="M238 154v34" stroke="#27312c" stroke-width="5" stroke-linecap="round"/>
+    <path d="M358 163v34" stroke="#27312c" stroke-width="5" stroke-linecap="round"/>
+    <path d="M488 149v34" stroke="#27312c" stroke-width="5" stroke-linecap="round"/>
+    <path d="M616 120v34" stroke="#27312c" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <g fill="#f8df9c" stroke="#a77b3c" stroke-width="4">
+    <ellipse cx="118" cy="184" rx="23" ry="30"/>
+    <ellipse cx="238" cy="202" rx="23" ry="30"/>
+    <ellipse cx="358" cy="211" rx="23" ry="30"/>
+    <ellipse cx="488" cy="197" rx="23" ry="30"/>
+    <ellipse cx="616" cy="168" rx="23" ry="30"/>
+  </g>
+  <path d="M0 432c138-92 274-132 406-132 111 0 244 27 394 112v148H0z" fill="#6e7768"/>
+  <path d="M524 210l74 82-74 82-74-82z" fill="#dde7df" opacity="0.9"/>
+  <path d="M284 210l74 82-74 82-74-82z" fill="#ffffff" opacity="0.85"/>
+  <text x="132" y="322" fill="#704323" font-family="Cormorant Garamond, serif" font-size="46" font-weight="700">Polished cafe-light look</text>
+  <text x="132" y="360" fill="#516058" font-family="Manrope, Arial, sans-serif" font-size="24">A cleaner visual upgrade for dining zones and pergola corners</text>
+</svg>

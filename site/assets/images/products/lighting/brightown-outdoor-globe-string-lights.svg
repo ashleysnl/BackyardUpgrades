@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-labelledby="title desc">
+  <title id="title">Brightown Outdoor Globe String Lights</title>
+  <desc id="desc">Stylized product placeholder illustration for globe-style outdoor string lights.</desc>
+  <rect width="800" height="560" fill="#f5eee7"/>
+  <path d="M36 122c91 26 183 42 282 42 132 0 255-28 446-100" fill="none" stroke="#28312c" stroke-width="8" stroke-linecap="round"/>
+  <g>
+    <path d="M112 140v36" stroke="#28312c" stroke-width="5" stroke-linecap="round"/>
+    <path d="M214 156v36" stroke="#28312c" stroke-width="5" stroke-linecap="round"/>
+    <path d="M324 164v36" stroke="#28312c" stroke-width="5" stroke-linecap="round"/>
+    <path d="M440 156v36" stroke="#28312c" stroke-width="5" stroke-linecap="round"/>
+    <path d="M560 130v36" stroke="#28312c" stroke-width="5" stroke-linecap="round"/>
+    <path d="M684 88v36" stroke="#28312c" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <g fill="#f6d796" stroke="#a47d48" stroke-width="4">
+    <circle cx="112" cy="194" r="24"/>
+    <circle cx="214" cy="210" r="24"/>
+    <circle cx="324" cy="218" r="24"/>
+    <circle cx="440" cy="210" r="24"/>
+    <circle cx="560" cy="184" r="24"/>
+    <circle cx="684" cy="142" r="24"/>
+  </g>
+  <path d="M0 442c124-82 240-120 370-120 151 0 294 36 430 108v130H0z" fill="#728062"/>
+  <rect x="204" y="256" width="392" height="130" rx="26" fill="#fffaf1" opacity="0.88"/>
+  <text x="258" y="318" fill="#7d4b2d" font-family="Cormorant Garamond, serif" font-size="46" font-weight="700">Soft decorative globe lights</text>
+  <text x="258" y="354" fill="#55615a" font-family="Manrope, Arial, sans-serif" font-size="24">A gentler layer for smaller patios and secondary lighting</text>
+</svg>
