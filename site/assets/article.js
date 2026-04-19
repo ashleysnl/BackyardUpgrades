@@ -10,6 +10,8 @@ const relatedEl = document.querySelector("#related-articles");
 const metaDescriptionEl = document.querySelector("#meta-description");
 const metaOgTitleEl = document.querySelector("#meta-og-title");
 const metaOgDescriptionEl = document.querySelector("#meta-og-description");
+const metaOgUrlEl = document.querySelector("#meta-og-url");
+const canonicalLinkEl = document.querySelector("#canonical-link");
 
 const params = new URLSearchParams(window.location.search);
 const slug = params.get("slug");
@@ -50,6 +52,13 @@ async function init() {
   }
   if (metaOgDescriptionEl) {
     metaOgDescriptionEl.content = article.metaDescription || article.description || article.deck;
+  }
+  const canonicalUrl = new URL(`./article.html?slug=${encodeURIComponent(article.slug)}`, window.location.href).toString();
+  if (metaOgUrlEl) {
+    metaOgUrlEl.content = canonicalUrl;
+  }
+  if (canonicalLinkEl) {
+    canonicalLinkEl.href = canonicalUrl;
   }
 
   const markdownResponse = await fetch(`./content/articles/${article.slug}.md`);

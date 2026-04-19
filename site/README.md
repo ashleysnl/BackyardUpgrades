@@ -10,7 +10,7 @@ This site now includes:
 - a reusable article page that loads Markdown content by slug
 - 10 publish-ready article files
 - affiliate-tagged Amazon links embedded in article content
-- supporting pages for about, affiliate disclosure, privacy, and contact
+- supporting pages for about, affiliate disclosure, and privacy
 - `robots.txt` and `sitemap.xml`
 
 ## Run locally
@@ -49,9 +49,6 @@ Important:
 - `privacy.html`
   Static privacy page.
 
-- `contact.html`
-  Static contact page. Still needs a final real contact email or destination before public launch.
-
 - `assets/styles.css`
   Main visual system and layout styles.
 
@@ -68,18 +65,17 @@ Important:
   Markdown article files with YAML frontmatter and embedded affiliate-tagged product links.
 
 - `robots.txt`
-  Crawl rules file. Review before launch if the final host is not `https://www.backyardupgrades.com/`.
+  Crawl rules file for the current GitHub Pages deployment.
 
 - `sitemap.xml`
-  Static sitemap. Review before launch if the final host is not `https://www.backyardupgrades.com/`.
+  Static sitemap for the current GitHub Pages deployment.
 
 ## Launch notes
 
 Before publishing publicly:
 
-- replace the placeholder contact wording in `contact.html`
 - review Amazon search-based affiliate links and upgrade to exact product pages where possible
-- confirm `robots.txt` and `sitemap.xml` match the final production domain
+- confirm `robots.txt`, `sitemap.xml`, and canonical tags if the production host changes
 - add favicon and brand assets
 
 ## Product image authoring
