@@ -26,19 +26,19 @@ Look for four basics first:
 
 ## Best overall for landscape highlighting
 
-**Nymphy Solar Spot Lights** are a strong fit when you want brighter light on shrubs, flagpoles, garden beds, or the side of the house. Spot lights are better than path lights when you want to create depth and highlight landscaping instead of just marking a walkway.
+**Nymphy Solar Spot Lights Outdoor (4-Pack, Waterproof, Adjustable)** are a strong fit when you want brighter light on shrubs, flagpoles, garden beds, or the side of the house. Spot lights are better than path lights when you want to create depth and highlight landscaping instead of just marking a walkway.
 
 **Best for:** feature lighting, garden beds, foundation planting, and darker corners of the yard.
 
 ## Best for walkways and front-to-backyard traffic
 
-**Gigalumi Solar Pathway Lights** make the most sense when the goal is simple: make paths easier to follow and keep the yard feeling finished after sunset. These are the lights that work well along stepping stones, driveway edges, or a straight line from deck to shed.
+**GIGALUMI Solar Pathway Lights Outdoor (12-Pack, Waterproof)** make the most sense when the goal is simple: make paths easier to follow and keep the yard feeling finished after sunset. These are the lights that work well along stepping stones, driveway edges, or a straight line from deck to shed.
 
 **Best for:** pathways, edging, and low-glare decorative lighting.
 
 ## Best for patio mood lighting
 
-**Addlon Solar String Lights** are the style to use when you care more about atmosphere than ground visibility. They are ideal for pergolas, fences, privacy screens, and covered sitting areas. A backyard with a seating zone almost always benefits from one layer of overhead or perimeter light.
+**addlon Solar String Lights Outdoor (30FT, Shatterproof, Waterproof)** are the style to use when you care more about atmosphere than ground visibility. They are ideal for pergolas, fences, privacy screens, and covered sitting areas. A backyard with a seating zone almost always benefits from one layer of overhead or perimeter light.
 
 **Best for:** patios, pergolas, dining areas, and evening entertaining.
 
@@ -82,25 +82,25 @@ If you are starting from zero, buy path lights first if your yard lacks visibili
 ## Recommended products
 
 :::product
-name: Nymphy Solar Spot Lights 4-Pack
+name: Nymphy Solar Spot Lights Outdoor (4-Pack, Waterproof, Adjustable)
 image: ./assets/images/products/lighting/nymphy-solar-spot-lights.svg
 note: A stronger fit for highlighting shrubs, garden beds, and architectural edges when you want more visible output than a typical path light.
 cta: Check price on Amazon.ca
-url: https://www.amazon.ca/dp/B08L6Z9L6X?tag=simplekit-20
+url: https://www.amazon.ca/dp/B0DNZGM471?tag=simplekit-20
 :::
 
 :::product
-name: Gigalumi Solar Pathway Lights 12-Pack
+name: GIGALUMI Solar Pathway Lights Outdoor (12-Pack, Waterproof)
 image: ./assets/images/products/lighting/gigalumi-solar-pathway-lights.svg
 note: Best for simple wayfinding along stepping stones, driveway edges, and the route from patio to shed.
 cta: Check price on Amazon.ca
-url: https://www.amazon.ca/dp/B07R8X5ZQ2?tag=simplekit-20
+url: https://www.amazon.ca/dp/B0D4Z2RJ3S?tag=simplekit-20
 :::
 
 :::product
-name: Addlon Solar String Lights
+name: addlon Solar String Lights Outdoor (30FT, Shatterproof, Waterproof)
 image: ./assets/images/products/lighting/addlon-solar-string-lights.svg
 note: The right pick when your main goal is warmth and ambiance around a pergola, dining area, or seating zone.
 cta: Check price on Amazon.ca
-url: https://www.amazon.ca/dp/B08F7Y9Z8X?tag=simplekit-20
+url: https://www.amazon.ca/dp/B0FYFCTT2F?tag=simplekit-20
 :::

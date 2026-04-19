@@ -24,15 +24,15 @@ The best raised bed is not automatically the deepest or the cheapest. In colder 
 
 ## Best low-maintenance option
 
-**Keter Maple Raised Garden Bed** is a good fit for people who want a cleaner, low-maintenance setup. Resin beds avoid some of the rot and upkeep issues people worry about with wood, while still looking more polished than a basic metal trough.
+**Keter Maple Raised Garden Bed (Outdoor Planter for Vegetables)** is a good fit for people who want a cleaner, low-maintenance setup. Resin beds avoid some of the rot and upkeep issues people worry about with wood, while still looking more polished than a basic metal trough.
 
 ## Best value workhorse
 
-A **galvanized steel raised garden bed** is often the best value option for cold climates. They are common, widely available, and well suited to vegetable gardening. The right one gives you a lot of planting volume for the money.
+A **Galvanized Steel Raised Garden Bed Kit (Outdoor, Rectangular)** is often the best value option for cold climates. It is well suited to vegetable gardening and gives you a lot of planting volume for the money.
 
 ## Best add-on for season extension
 
-**Garden bed cover hoops and mesh** matter more in cold climates than many new gardeners expect. If you can add frost cloth, insect mesh, or a simple low tunnel, the raised bed becomes much more productive.
+**Garden Hoops Kit with Netting Cover (Fiberglass, Pest & Frost Protection)** matters more in cold climates than many new gardeners expect. If you can add frost cloth, insect mesh, or a simple low tunnel, the raised bed becomes much more productive.
 
 ## What depth actually makes sense
 
@@ -56,25 +56,25 @@ If you want a polished, easy-care setup, go with a resin or composite-style bed.
 ## Recommended products
 
 :::product
-name: Keter Maple Raised Garden Bed
+name: Keter Maple Raised Garden Bed (Outdoor Planter for Vegetables)
 image: ./assets/images/products/gardening/keter-maple-raised-garden-bed.svg
 note: A polished low-maintenance option for gardeners who want a cleaner look and less material upkeep over time.
 cta: Check price on Amazon.ca
-url: https://www.amazon.ca/dp/B00B2ILF8O?tag=simplekit-20
+url: https://www.amazon.ca/dp/B09DTKR9R9?tag=simplekit-20
 :::
 
 :::product
-name: Galvanized Steel Raised Garden Bed
+name: Galvanized Steel Raised Garden Bed Kit (Outdoor, Rectangular)
 image: ./assets/images/products/gardening/galvanized-steel-raised-garden-bed.svg
 note: Usually the best value choice when the priority is planting volume, durability, and straightforward vegetable production.
 cta: Check price on Amazon.ca
-url: https://www.amazon.ca/dp/B08R5VY3ZK?tag=simplekit-20
+url: https://www.amazon.ca/dp/B0BS6QFQML?tag=simplekit-20
 :::
 
 :::product
-name: Garden Bed Cover Hoops and Mesh
+name: Garden Hoops Kit with Netting Cover (Fiberglass, Pest & Frost Protection)
 image: ./assets/images/products/gardening/garden-bed-cover-hoops-mesh.svg
 note: A simple season-extension add-on that helps with frost protection, pest control, and more productive shoulder-season growing.
 cta: Check price on Amazon.ca
-url: https://www.amazon.ca/dp/B08Z3J8L7P?tag=simplekit-20
+url: https://www.amazon.ca/dp/B0DPWCLZXK?tag=simplekit-20
 :::

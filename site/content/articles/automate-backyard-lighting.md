@@ -27,7 +27,7 @@ Plug-in lighting is the easiest to automate. String lights, lanterns, café ligh
 
 ## When smart lights themselves are worth it
 
-If you want scenes, app color control, or a more customizable evening setup, **Smart LED Outdoor String Lights** can be worth the upgrade. For most people, though, a regular light set plus a smart plug is the cheaper and simpler choice.
+If you want scenes, app control, and a more customizable evening setup, **Govee Smart Outdoor String Lights (WiFi App Controlled, Waterproof)** can be worth the upgrade. For most people, though, a regular light set plus a smart plug is the cheaper and simpler choice.
 
 ## Good automation routines
 
@@ -44,4 +44,4 @@ Automate the lights you already use most often, then stop. A yard with one relia
 
 - **Amazon Basics Outdoor Smart Plug** — Affiliate link: [Shop on Amazon.ca](https://www.amazon.ca/dp/B094YHJJVG?tag=simplekit-20)
 - **Amazon Smart Plug** — Affiliate link: [Shop on Amazon.ca](https://www.amazon.ca/dp/B089DTMHW4?tag=simplekit-20)
-- **Smart LED Outdoor String Lights** — Affiliate link: [Shop on Amazon.ca](https://www.amazon.ca/dp/B0CMZ9RDSH?tag=simplekit-20)
+- **Govee Smart Outdoor String Lights (WiFi App Controlled, Waterproof)** — Affiliate link: [Shop on Amazon.ca](https://www.amazon.ca/dp/B0F21VKH7V?tag=simplekit-20)

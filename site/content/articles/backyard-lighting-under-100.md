@@ -29,11 +29,11 @@ Trying to stretch a small budget across the whole property usually creates a wea
 
 ## Best premium patio look under budget
 
-**Brightech Ambience Pro** is the upgrade pick when you want a more polished cafe-light look without jumping into a full custom lighting setup. It fits small patios, pergola corners, and dining zones where the visual style matters as much as basic illumination.
+**Brightech Ambience Pro Waterproof Outdoor String Lights** is the upgrade pick when you want a more polished cafe-light look without jumping into a full custom lighting setup. It fits small patios, pergola corners, and dining zones where the visual style matters as much as basic illumination.
 
 ## Best decorative filler under budget
 
-**Brightown Globe String Lights** are a good choice for smaller spaces where you want a softer, decorative look. They also work as a second layer when your main yard lighting already exists.
+**Brightown Outdoor Globe String Lights (Shatterproof, Waterproof)** are a good choice for smaller spaces where you want a softer, decorative look. They also work as a second layer when your main yard lighting already exists.
 
 ## Three budget-friendly lighting plans
 
@@ -68,5 +68,5 @@ If your yard is mostly for relaxing, buy string lights. If it is mostly about fu
 ## Recommended products
 
 - **Addlon 48FT Outdoor String Lights** — Affiliate link: [Shop on Amazon.ca](https://www.amazon.ca/dp/B07QMKZWQF?tag=simplekit-20)
-- **Brightech Ambience Pro** — Affiliate link: [View on Amazon Canada](https://www.amazon.ca/dp/B07J2QW4N2?tag=simplekit-20)
-- **Brightown Globe String Lights** — Affiliate link: [View on Amazon Canada](https://www.amazon.ca/dp/B07H9VZL8R?tag=simplekit-20)
+- **Brightech Ambience Pro Waterproof Outdoor String Lights** — Affiliate link: [View on Amazon Canada](https://www.amazon.ca/dp/B07MF2X7XR?tag=simplekit-20)
+- **Brightown Outdoor Globe String Lights (Shatterproof, Waterproof)** — Affiliate link: [View on Amazon Canada](https://www.amazon.ca/dp/B0C61WJZH9?tag=simplekit-20)

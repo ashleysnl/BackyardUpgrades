@@ -19,15 +19,15 @@ In a windy backyard, propane is usually easier to live with. It starts quickly, 
 
 ## Best wood option for cleaner burns
 
-**Solo Stove Bonfire 2.0** is the wood fire pit I would put first on the shortlist if you want a better chance of staying comfortable in breezy conditions. The smokeless design does not make wind irrelevant, but it reduces one of the biggest frustrations of backyard fires: constant smoke chasing.
+**Solo Stove Bonfire 2.0 Fire Pit with Stand** is the wood fire pit I would put first on the shortlist if you want a better chance of staying comfortable in breezy conditions. The smokeless design does not make wind irrelevant, but it reduces one of the biggest frustrations of backyard fires: constant smoke chasing.
 
 ## Best propane option for easy use
 
-**Outland Living Mega Fire Pit** is a good fit if convenience matters more than romance. Propane starts fast, stays predictable, and gives you a tidy setup that is easier to manage on decks, patios, and exposed corners.
+**Outland Living Firebowl Mega 24-Inch Propane Fire Pit** is a good fit if convenience matters more than romance. Propane starts fast, stays predictable, and gives you a tidy setup that is easier to manage on decks, patios, and exposed corners.
 
 ## Best budget entry
 
-**Amazon Basics Steel Lattice Fire Pit** is worth a look if your goal is simple affordability. Budget pits can work, but they make more sense in sheltered areas and for buyers who are realistic about longevity and cleanup.
+**Amazon Basics Steel Round Lattice Fire Pit** is worth a look if your goal is simple affordability. Budget pits can work, but they make more sense in sheltered areas and for buyers who are realistic about longevity and cleanup.
 
 ## What actually works in wind
 
@@ -59,25 +59,25 @@ For an exposed backyard, propane is the safer recommendation for most people. Fo
 ## Recommended products
 
 :::product
-name: Solo Stove Bonfire 2.0
+name: Solo Stove Bonfire 2.0 Fire Pit with Stand
 image: ./assets/images/products/fire-pits/solo-stove-bonfire.svg
 note: A strong shortlist option for buyers who want a wood fire experience with less smoke frustration in breezy conditions.
 cta: Check price on Amazon.ca
-url: https://www.amazon.ca/dp/B0B8J7Z5F5?tag=simplekit-20
+url: https://www.amazon.ca/dp/B0B7BFJ5Y6?tag=simplekit-20
 :::
 
 :::product
-name: Outland Living Mega Fire Pit
+name: Outland Living Firebowl Mega 24-Inch Propane Fire Pit
 image: ./assets/images/products/fire-pits/outland-living-mega-fire-pit.svg
 note: The easiest recommendation for exposed patios where quick ignition, low mess, and predictable flames matter most.
 cta: Check price on Amazon.ca
-url: https://www.amazon.ca/dp/B07BN3X8G5?tag=simplekit-20
+url: https://www.amazon.ca/dp/B00FWKVGQ0?tag=simplekit-20
 :::
 
 :::product
-name: Amazon Basics Steel Lattice Fire Pit
+name: Amazon Basics Steel Round Lattice Fire Pit
 image: ./assets/images/products/fire-pits/amazon-basics-steel-lattice-fire-pit.svg
 note: A budget-conscious entry point that works best when you can place it in a more sheltered part of the yard.
 cta: Check price on Amazon.ca
-url: https://www.amazon.ca/dp/B07N1VZV3P?tag=simplekit-20
+url: https://www.amazon.ca/dp/B00LILH3QE?tag=simplekit-20
 :::

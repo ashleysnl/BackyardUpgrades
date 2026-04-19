@@ -22,11 +22,11 @@ In a small yard, try to make every upgrade support one of these:
 
 ## Best compact garden add-on
 
-A **Keter raised planter box** or similar elevated planter adds greenery without consuming the whole yard.
+A **Keter Urban Bloomer Raised Planter Box (Elevated, Self-Watering)** adds greenery without consuming the whole yard.
 
 ## Best dual-purpose furniture move
 
-An **outdoor storage bench deck box** gives you seating and hidden storage at the same time. That is exactly the kind of overlap small spaces need.
+An **Outsunny Outdoor Storage Bench (75 Gallon, Waterproof Deck Box)** gives you seating and hidden storage at the same time. That is exactly the kind of overlap small spaces need.
 
 ## Best visual upgrade per square foot
 
@@ -42,6 +42,6 @@ Prioritize one seating zone, one hidden-storage solution, and one overhead or pe
 
 ## Recommended products
 
-- **Keter Raised Planter Box** — Affiliate link: [View on Amazon Canada](https://www.amazon.ca/dp/B07G5W2Y7R?tag=simplekit-20)
-- **Outdoor Storage Bench Deck Box** — Affiliate link: [View on Amazon Canada](https://www.amazon.ca/dp/B07Y2W8L6X?tag=simplekit-20)
+- **Keter Urban Bloomer Raised Planter Box (Elevated, Self-Watering)** — Affiliate link: [View on Amazon Canada](https://www.amazon.ca/dp/B079SQRL46?tag=simplekit-20)
+- **Outsunny Outdoor Storage Bench (75 Gallon, Waterproof Deck Box)** — Affiliate link: [View on Amazon Canada](https://www.amazon.ca/dp/B0CR9MZQNN?tag=simplekit-20)
 - **Addlon 48FT Outdoor String Lights** — Affiliate link: [Shop on Amazon.ca](https://www.amazon.ca/dp/B07QMKZWQF?tag=simplekit-20)

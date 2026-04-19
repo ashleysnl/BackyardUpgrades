@@ -21,11 +21,11 @@ The easiest way to make a backyard feel more inviting is to lower the visual har
 
 ## Add comfort you will actually use
 
-An **outdoor throw blanket with a waterproof backing** is one of those simple upgrades that gets used more than decorative pillows. It is practical, stores easily, and helps during cool shoulder-season evenings.
+A **Scuddles Outdoor Picnic Blanket (Waterproof Backing, Foldable)** is one of those simple upgrades that gets used more than decorative pillows. It is practical, stores easily, and helps during cool shoulder-season evenings.
 
 ## Add heat only if the space needs it
 
-A **portable propane patio heater** works when you want warmth but a fire pit is not practical, permitted, or convenient.
+A **Paramount Propane Patio Heater (Freestanding Outdoor, Mocha)** works when you want warmth but a fire pit is not practical, permitted, or convenient.
 
 ## The cozy layout formula
 
@@ -43,5 +43,5 @@ Make the yard comfortable before making it decorative. Light, seating, and warmt
 ## Recommended products
 
 - **Addlon 48FT Outdoor String Lights** — Affiliate link: [Shop on Amazon.ca](https://www.amazon.ca/dp/B07QMKZWQF?tag=simplekit-20)
-- **Outdoor Throw Blanket, Waterproof Backed** — Affiliate link: [See current price](https://www.amazon.ca/dp/B08K3R7J8M?tag=simplekit-20)
-- **Portable Propane Patio Heater** — Affiliate link: [View on Amazon Canada](https://www.amazon.ca/dp/B08JH6K6XZ?tag=simplekit-20)
+- **Scuddles Outdoor Picnic Blanket (Waterproof Backing, Foldable)** — Affiliate link: [See current price](https://www.amazon.ca/dp/B08DHJRTDB?tag=simplekit-20)
+- **Paramount Propane Patio Heater (Freestanding Outdoor, Mocha)** — Affiliate link: [View on Amazon Canada](https://www.amazon.ca/dp/B00A3EVXHC?tag=simplekit-20)

@@ -31,7 +31,7 @@ These give quick feedback and keep motivation high.
 
 ## The best starter equipment
 
-**Keter Maple Raised Garden Bed** or another simple raised bed gives structure and limits sprawl.
+**Keter Maple Raised Garden Bed (Outdoor Planter for Vegetables)** or another simple raised bed gives structure and limits sprawl.
 
 **Seed starter trays with humidity dome** help you get ahead of a short season, especially if you want tomatoes, peppers, or herbs.
 
@@ -52,6 +52,6 @@ If you are new, build one bed, plant a short list of easy crops, automate wateri
 ## Recommended products
 
 <!-- TODO: Replace the Garden Hose Timer search link with an approved exact direct product URL when one is available. -->
-- **Keter Maple Raised Garden Bed** — Affiliate link: [View on Amazon Canada](https://www.amazon.ca/dp/B00B2ILF8O?tag=simplekit-20)
+- **Keter Maple Raised Garden Bed (Outdoor Planter for Vegetables)** — Affiliate link: [View on Amazon Canada](https://www.amazon.ca/dp/B09DTKR9R9?tag=simplekit-20)
 - **Seed Starter Trays with Humidity Dome** — Affiliate link: [View on Amazon Canada](https://www.amazon.ca/dp/B07YF1R8YH?tag=simplekit-20)
 - **Garden Hose Timer** — Affiliate link: [Shop on Amazon.ca](https://www.amazon.ca/s?k=garden+hose+timer+outdoor&tag=simplekit-20)
